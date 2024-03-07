@@ -1,0 +1,40 @@
+{
+	"action": "UPDATE",
+	"class": "get_packages",
+	"data": [{
+		"id": "1",
+		"name": "Basic Plan",
+		"description": "Basic Plan",
+		"cost": "299",
+		"mode": "0",
+		"date": ""
+	}, {
+		"id": "2",
+		"name": "Bronze Plan",
+		"description": "Bronze Plan",
+		"cost": "399",
+		"mode": "0",
+		"date": ""
+	}, {
+		"id": "3",
+		"name": "Silver Plan",
+		"description": "Silver Plan",
+		"cost": "499",
+		"mode": "1",
+		"date": "2018-03-31 16:55:00"
+	}, {
+		"id": "4",
+		"name": "Gold Plan",
+		"description": "Gold Plan",
+		"cost": "799",
+		"mode": "0",
+		"date": ""
+	}, {
+		"id": "5",
+		"name": "Platinum Plan",
+		"description": "Platinum Plan",
+		"cost": "999",
+		"mode": "0",
+		"date": ""
+	}]
+}

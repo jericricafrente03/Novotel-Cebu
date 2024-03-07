@@ -1,0 +1,17 @@
+{
+	"type":"android",
+	"requirements":
+	[
+		{"no":"1","text":"Android 4.2 or higher"}
+	],
+	"instructions":
+	[
+		{"no":"1","text":"hdhsdskjdf."},
+		{"no":"2","text":"Dfdafafasfasfasfnd search for iMediaShare app or press Green Button on the remote control to display QR code to download the app."},
+		{"no":"3","text":"fafafasfasfasfsapp icon to access the application."},
+		{"no":"4","text":"Selfasfsafafasfasfafseam."},
+		{"no":"5","text":"Once tfafafasfasfasfsignated for your room (i.e. Rm 1.01)."},
+		{"no":"6","text":"And then pressafasfasfasfasfasfasf."}
+	],
+	"notes":[]
+}

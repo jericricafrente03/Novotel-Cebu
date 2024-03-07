@@ -1,0 +1,29 @@
+{
+	"action":"UPDATE",
+	"class":"get_extras",
+	"date":"10 06 2016 12:12:12",
+	"room":0,
+	"data":
+[
+    {
+    "id":1,
+    "parentID":1,
+    "parent":"MeshFoodItem",
+    "name":"American 123Breakfast",
+    "img":"dine_american_bf",
+    "isCustom":2,
+    "price":0,
+    "description":""
+    },
+    {"id":2,"parentID":1,"parent":"MeshExtra","name":"Juice","img":"n/a","isCustom":1,"price":0,"description":""},
+    {"id":3,"parentID":103,"parent":"MeshExtra","name":"Orange","img":"n/a","isCustom":4,"price":0,"description":""},
+    {"id":4,"parentID":103,"parent":"MeshExtra","name":"Grapefruit","img":"n/a","isCustom":4,"price":0,"description":""},
+    {"id":5,"parentID":103,"parent":"MeshExtra","name":"Watermelon","img":"n/a","isCustom":4,"price":0,"description":""},
+    {"id":6,"parentID":103,"parent":"MeshExtra","name":"Carrott","img":"n/a","isCustom":4,"price":0,"description":""},
+    {"id":7,"parentID":103,"parent":"MeshExtra","name":"Apple","img":"n/a","isCustom":4,"price":0,"description":""},
+    {"id":8,"parentID":103,"parent":"MeshExtra","name":"Mango","img":"n/a","isCustom":4,"price":0,"description":""},
+    {"id":9,"parentID":103,"parent":"MeshExtra","name":"Pineapple","img":"n/a","isCustom":4,"price":0,"description":""},
+    {"id":10,"parentID":103,"parent":"MeshExtra","name":"Tomato","img":"n/a","isCustom":4,"price":0,"description":""}
+]
+}
+

@@ -1,0 +1,26 @@
+{"date":"01 13 2017 - 09:36:31","action":"UPDATE","class":"get_airport_name",
+"room":"0","
+data":[
+    {
+        "id":"504",
+        "fs":"RGN",
+        "iata":"RGN",
+        "icao":"VYYY",
+        "name":"Yangon International Airport",
+        "city":"Mingaladon",
+        "citycode":"RGN",
+        "countrycode":"MM",
+        "countryname":"Myanmar",
+        "regionname":"Asia",
+        "timezone":"Asia\/Rangoon",
+        "utcoffset":"7",
+        "latitude":"16.900101",
+        "longitude":"96.134201",
+        "elevationfeet":"109",
+        "classification":"2",
+        "active":"1",
+        "delayindexurl":"https:\/\/api.flightstats.com\/flex\/delayindex\/rest\/v1\/json\/airports\/RGN?codeType=fs",
+        "weatherurl":"https:\/\/api.flightstats.com\/flex\/weather\/rest\/v1\/json\/all\/RGN?codeType=fs"
+        }
+       ]
+   }

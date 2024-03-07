@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Holiday Inn</string>
+
+    <string name="background">background</string>
+    <string name="airmedia_description">AIRMEDIA</string>
+    <string name="airmedia">PLEASE SELECT OPTION BELOW TO STREAM AIRMEDIA BASED ON YOUR MOBILE OPERATING SYSTEM</string>
+    <string name="qr">Please use a QR Scanner App to read the code</string>
+    <string name="press"><![CDATA[ Press number <b>3</b> for fullscreen mode]]></string>
+    <string name="ready">Ready    </string>
+    <string name="notready">Not Ready</string>
+    <string name="weather">WEATHER</string>
+    <string name="netflix">NETFLIX</string>
+    <string name="spotify">SPOTIFY</string>
+    <string name="icon_website">CARLSON RESIDOR</string>
+    <string name="enews">E NEWS</string>
+    <string name="facebook">facebook</string>
+    <string name="twitter">twitter</string>
+    <string name="website">HOTEL INFO</string>
+    <string name="rent">Do you want to rent this movie?</string>
+    <string name="delete_message">Do you want to delete the message?</string>
+    <string name="watch">Movie has already been rented. Do you want to watch it?</string>
+    <string name="addcart">Do you want to add this to your cart?</string>
+    <string name="checkout">Are you sure you want to checkout?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="confirmcheckout">CHECKOUT</string>
+    <string name="tv_instruct"> back button for the channel list</string>
+    <string name="vod_instruct"> back button for the movie list</string>
+
+    <!--room, number name-->
+    <string name="room">186</string>
+    <string name="guest">CARLSON RESIDOR</string>
+
+    <!--location, date-->
+    <string name="date">17 NOV 2017 • TUE</string>
+    <string name="location">THE PALM DUBAI</string>
+    <string name="dot">•</string>
+
+    <!--degree symbol-->
+    <string name="degree_symbol">°THE PALM DUBAI</string>
+
+    <!--today weather-->
+    <string name="temperature">28</string>
+
+</resources>

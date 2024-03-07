@@ -1,0 +1,14 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_zone_assignment",
+	"room": 0,
+	"data": 
+	[
+		{
+			"id": "1",
+			"layout_id": "1",
+			"signage_id": "1",
+			"zone": "1"
+		}
+	]
+}

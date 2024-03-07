@@ -1,0 +1,17 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_type",
+	"room": 0,
+	"data": [
+        {
+			"id": "0",
+			"name": "image",
+			"description": "image description 0"
+		},
+		{
+			"id": "1",
+			"name": "video",
+			"description": "video description 1"
+		}
+	]
+}

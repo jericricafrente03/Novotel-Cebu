@@ -1,0 +1,38 @@
+{
+	"action":"UPDATE",
+	"class":"get_all_service_request",
+	"date":"10 06 2016 12:12:12",
+	"room":0,
+	"data":
+[
+{ "enabled" : "1",
+    "id" : "6",
+    "img_uri" : "airport_pickup.jpg",
+    "item_description" : "Airport Car Pickup/DropOff",
+    "item_name" : "Airport Car Pickup/DropOff",
+    "unit_price" : "0.00"
+  },
+  { "enabled" : "1",
+    "id" : "7",
+    "img_uri" : "car_service.jpg",
+    "item_description" : "Auto Service Drop/Wait",
+    "item_name" : "Auto Service Drop/Wait",
+    "unit_price" : "0.00"
+  },
+  { "enabled" : "1",
+    "id" : "8",
+    "img_uri" : "dog_walking.jpg",
+    "item_description" : "Dog Walking",
+    "item_name" : "Dog Walking",
+    "unit_price" : "0.00"
+  },
+{ "enabled" : "1",
+    "id" : "13",
+    "img_uri" : "corporate_event_planning.png",
+    "item_description" : "Corpororate event planning",
+    "item_name" : "Corpororate event planning",
+    "unit_price" : "0.00"
+  }
+]
+}
+

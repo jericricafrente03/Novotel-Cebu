@@ -1,0 +1,29 @@
+{
+	"action": "UPDATE",
+	"class": "get_shopping_category",
+	"data": [{
+		"id": "1",
+		"category_name": "Introduction",
+		"category_description": "Introduction",
+		"order_no": "1",
+		"color": ""
+	}, {
+		"id": "2",
+		"category_name": "Fashion",
+		"category_description": "Fashion Items",
+		"order_no": "2",
+		"color": ""
+	}, {
+		"id": "3",
+		"category_name": "Souvenirs",
+		"category_description": "Souvenirs Items",
+		"order_no": "3",
+		"color": ""
+	}, {
+		"id": "4",
+		"category_name": "Accessories",
+		"category_description": "Accessories",
+		"order_no": "4",
+		"color": ""
+	}]
+}

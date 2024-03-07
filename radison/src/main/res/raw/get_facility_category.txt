@@ -1,0 +1,86 @@
+{
+	"action": "UPDATE",
+	"class": "get_facility_category",
+	"data": [{
+		"id": "1",
+		"category_name": "Introduction",
+		"category_description": "Introduction",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#1abc9c"
+	}, {
+		"id": "2",
+		"category_name": "Rides",
+		"category_description": "Rides",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#2ecc71"
+	}, {
+		"id": "3",
+		"category_name": "Attractions",
+		"category_description": "Attractions",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#3498db"
+	}, {
+		"id": "4",
+		"category_name": "Facilities",
+		"category_description": "Facilities",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#f39c12"
+	}, {
+		"id": "5",
+		"category_name": "Recreation Areas",
+		"category_description": "Recreation Areas",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#e67e22"
+	}, {
+		"id": "6",
+		"category_name": "Food & Beverages",
+		"category_description": "Food & Beverages",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#e74c3c"
+	}, {
+		"id": "7",
+		"category_name": "Health & Wellness",
+		"category_description": "Health & Wellness",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#34495e"
+	}, {
+		"id": "8",
+		"category_name": "Activities Packages",
+		"category_description": "Activities Packages",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#7f8c8d"
+	}, {
+		"id": "9",
+		"category_name": "Tour Packages",
+		"category_description": "Tour Packages",
+		"img_preview": "",
+		"img_uri": "",
+		"order_no": "0",
+		"is_service": "0",
+		"color": "#2c3e50"
+	}]
+}

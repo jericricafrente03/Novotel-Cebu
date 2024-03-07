@@ -1,0 +1,17 @@
+{
+	"type":"android",
+	"requirements":
+	[
+		{"no":"1","text":"Android 4.2 or higher"}
+	],
+	"instructions":
+	[
+		{"no":"1","text":"Connect your mobile to the Wireless access point designated for your room (i.e. Rm 1.01)."},
+		{"no":"2","text":"Download this application in your mobile or tablet:<br>Go to Play Store and search for iMediaShare app or press Green Button on the remote control to display QR code to download the app."},
+		{"no":"3","text":"After installation, click on the iMediaShare app icon to access the application."},
+		{"no":"4","text":"Select the Video, Photo and Music you want to stream."},
+		{"no":"5","text":"Once the media is selected, select the screen and find the streaming device ID that is designated for your room (i.e. Rm 1.01)."},
+		{"no":"6","text":"And then press the ID and start streaming."}
+	],
+	"notes":[]
+}

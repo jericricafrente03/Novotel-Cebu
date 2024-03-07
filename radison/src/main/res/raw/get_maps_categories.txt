@@ -1,0 +1,45 @@
+{
+	"action": "UPDATE",
+	"class": "virtual_concierge_category",
+	"date": "01 13 2017 09:38:33",
+	"room": 0,
+	"data": [{
+			"id": "1",
+			"category_name": "Introduction",
+			"category_description": "Introduction",
+			"img_preview": "sample",
+			"img_uri": "sample"
+		}, {
+			"id": "2",
+			"category_name": "Places of Interest",
+			"category_description": "Places of Interest",
+			"img_preview": "sample",
+			"img_uri": "sample"
+		}, {
+			"id": "3",
+			"category_name": "Park",
+			"category_description": "Park",
+			"img_preview": "sample",
+			"img_uri": "sample"
+		}, {
+			"id": "4",
+			"category_name": "Museum",
+			"category_description": "Museum",
+			"img_preview": "sample",
+			"img_uri": "sample"
+		}, {
+			"id": "5",
+			"category_name": "Historic Buildings",
+			"category_description": "Historic Buildings",
+			"img_preview": "sample",
+			"img_uri": "sample"
+		},
+		{
+			"id": "6",
+			"category_name": "Exhibit",
+			"category_description": "Exhibit",
+			"img_preview": "sample",
+			"img_uri": "sample"
+		}
+	]
+}

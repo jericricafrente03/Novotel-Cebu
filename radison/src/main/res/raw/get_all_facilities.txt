@@ -1,0 +1,43 @@
+{
+	"action": "UPDATE",
+	"class": "facility",
+	"date": "08 09 2016 11:25:46",
+	"room": "0",
+	"data": [{
+			"category_id": "1",
+			"enabled": "1",
+			"id": "1",
+			"img_uri": "novotel_lobby",
+			"item_description": "Welcome to Novotel Mactan! Wishing you an amazing stay.",
+			"item_name": "Lobby",
+			"unit_price": "0"
+		},
+		{
+			"category_id":"1",
+			"enabled":"1",
+			"id":"2",
+			"img_uri":"novotel_living_room_bar",
+			"item_description":"",
+			"item_name": "Bar",
+			"unit_price": "0"
+		},
+		{
+			"category_id": "1",
+			"enabled": "1",
+			"id": "3",
+			"img_uri": "novotel_library",
+			"item_description": "",
+			"item_name": "Library",
+			"unit_price": "0"
+		},
+		{
+        	"category_id": "1",
+        	"enabled": "1",
+        	"id": "4",
+        	"img_uri": "novotel_pool",
+        	"item_description": "",
+        	"item_name": "Pool",
+        	"unit_price": "0"
+        }
+	]
+}

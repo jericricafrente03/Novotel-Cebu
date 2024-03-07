@@ -1,0 +1,189 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_shopping_item",
+	"data": [{
+		"id": "2",
+		"item_name": "WAGW Straw Dotted Ribbon Boater Hat",
+		"item_description": "<p>\n\n<\/p><p>Made of straw material<\/p><p>With a dotted bow design<\/p><p>Diameter: 7\\\"<\/p><p>Hand Wash Only.<\/p><p>Can be use for casual attire.<\/p>\n\n<br><p><\/p>",
+		"unit_price": "50",
+		"shopping_category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/wagw_5617_274731_3_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "3",
+		"item_name": "WAGW Sugar Coated Floppy Bow Hat",
+		"item_description": "<p>\n\n<\/p><p>Material: Leather<\/p><p>Floppy Bow<\/p><p>Length: 7.5\\\"<\/p>\n\n<br><p><\/p>",
+		"unit_price": "50",
+		"shopping_category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/wagw_5617_717921_5_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "4",
+		"item_name": "Geneva Infinity Scarf GA1123-3",
+		"item_description": "<p>\n\n<\/p><p>Infinity scarf<\/p><p>Made of woven silk<\/p><p>Long rectangular tassel scarf<\/p><p>Fishnet style<\/p><p>Hand wash<\/p><p>Do not bleach<\/p><p>Perfect to warm up a cold day, or for sassy events.<\/p>\n\n<br><p><\/p>",
+		"unit_price": "120",
+		"shopping_category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/geneva_5617_740211_3_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "5",
+		"item_name": "TNL Five-folds Umbrella Printed",
+		"item_description": "<p>\n\n<\/p><p>Manual five-folds\/five-segment umbrella<\/p><p>Canopy material: Pongee, aluminum, silver coated steel\/stretcher, fiber ribs aluminum<\/p><p>Matte silver plated plastic handle with handle strap<\/p><p>Velcro type umbrella closure, wind proof capability<\/p><p>Compact sized, ideal for bags<\/p>\n\n<br><p><\/p>",
+		"unit_price": "20",
+		"shopping_category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/tnl_5152_133802_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "6",
+		"item_name": "PENSHOPPE Ladies' Basic Snapback Cap",
+		"item_description": "<p>\n\n<\/p><p>100&#37; Cotton<\/p><p>Flat embroidered \\\"P\\\" logo<\/p><p>Flat visor<\/p>\n\n<br><p><\/p>",
+		"unit_price": "120",
+		"shopping_category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/penshoppe_7268_928842_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "7",
+		"item_name": "Roll-N-Go Cosmetic Bag",
+		"item_description": "<p>\n\n<\/p><p>Cosmetics Bag<\/p><p>Material: Polyester<\/p><p>Best Travel Buddy for cosmetics<\/p><p>With 4 Spacious Zippered Compartment<\/p><p>Can Hold and store cosmetics, jewelry, and more.<\/p>\n\n<br><p><\/p>",
+		"unit_price": "50",
+		"shopping_category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/generic_1350_150642_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "8",
+		"item_name": "Souvenir Great Temple Mandalay Myanmar Burma High Quality 3d Fridge Magnet Free Shipping",
+		"item_description": "<p>\n\n<\/p><p>3D High Quality Firdge Magnet<\/p><p>Made from Resin,100&#37; Handmade Product<\/p>\n\n<br><p><\/p>",
+		"unit_price": "110",
+		"shopping_category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/sz.jpg",
+		"enabled": "1"
+	}, {
+		"id": "9",
+		"item_name": "Burma Souvenir Spoon",
+		"item_description": "<p>\n\nIt is approx. 5\\\"\n\n<br><\/p>",
+		"unit_price": "100",
+		"shopping_category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/t11.JPG",
+		"enabled": "1"
+	}, {
+		"id": "10",
+		"item_name": "Myanmar Burma Shwedagon Pagoda 3D fridge Refrigerator Thai Magnet Hand Made ",
+		"item_description": "<p>\n\n<\/p><p>Myanmar Burma Shwedagon Pagoda Asia<\/p><p>Hand sculptured<\/p><p>High Quality Polyresin 3D effect Handpainted magnets home design interior decoration modern art<\/p><p>Free Gift Warped<\/p>\n\n<br><p><\/p>",
+		"unit_price": "30",
+		"shopping_category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/t2.JPG",
+		"enabled": "1"
+	}, {
+		"id": "11",
+		"item_name": "Xanina Berna 2 Dress",
+		"item_description": "<p>\n\n<\/p><p>Material: Cotton\/polyester\/spandex V neckline<\/p><p>Short sleeve Gartered back with belted waist<\/p><p>Creates the illusion for stunning and sexy curves<\/p><p>Soft stretch fabric<\/p>\n\n<br><p><\/p>",
+		"unit_price": "130",
+		"shopping_category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/xanina_3987_644962_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "12",
+		"item_name": "Glamorous Button Down Shirt",
+		"item_description": "<p>\n\n<\/p><p>Long sleeved<\/p><p>Scattered Pink Floral print boyfriend fit shirt, that features a button-through front, pointed collar, buttoned cuffs and a single pocket<\/p><p>Fits true to size, take your normal size<\/p><p>Refer to size guide for fit.<\/p><p>Model is 176cm\/5'9\\\" and is wearing a size S Inspired by vintage looks, high fashion, and nightlife culture, the Manchester-based Glamorous brand, offers affordable trend-led fashion for all styles.<\/p>\n\n<br><p><\/p>",
+		"unit_price": "120",
+		"shopping_category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/glamorous_3899_420441_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "13",
+		"item_name": "Longchamp Victorie Planetes LLH Shoulder Tote Bag (Blue)",
+		"item_description": "<p>\n\n<\/p><p>Material: Synthetic Leather 1 inside slip pocket<\/p><p>Double shouldered straps Fashionable tote bag<\/p><p>Comes with care card.<\/p>\n\n<br><p><\/p>",
+		"unit_price": "130",
+		"shopping_category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/longchamp_6569_590022_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "14",
+		"item_name": "Otto Wedge Sandals 28900263",
+		"item_description": "<p>\n\n<\/p><p>Wedge sandals with gold metal accent<\/p><p>Material: Synthetic leather<\/p><p>Round, open X-strap toe with cut-out detail<\/p><p>3.5\\\" wooden heel<\/p><p>Ankle strap with buckle fastening<\/p>\n\n<br><p><\/p>",
+		"unit_price": "110",
+		"shopping_category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/otto_8987_423291_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "15",
+		"item_name": "Free People Long Sleeves Everyday Shirt",
+		"item_description": "<p>\n\n<\/p><p>Front button closure textured top featuring a standing collar, high-low hemline, and decorative lace cut-out detail<\/p><p>Button closure on cuffs<\/p><p>This item runs significantly larger, take two sizes smaller than normal.<\/p>\n\n<br><p><\/p>",
+		"unit_price": "120",
+		"shopping_category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/free_people_4210_248581_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "16",
+		"item_name": "Free People Sleeveless Striped Top",
+		"item_description": "<p>\n\n<\/p><p>Sleeveless tunic in a plaid featuring a asymmetrical body knotted at the side<\/p><p>Designed with a U neckline and dropped ringer armholes, in a semi-sheer fabric<\/p><p>This item runs significantly larger, take two sizes smaller than normal<\/p>\n\n<br><p><\/p>",
+		"unit_price": "350",
+		"shopping_category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/free_people_4107_421921_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "17",
+		"item_name": "Free People Sleeveless Midi Dress",
+		"item_description": "<p>\n\n<\/p><p>Sleeveless sheer lace dress crafted with a square neckline and an Empire waistline<\/p><p>This item runs significantly larger, take two sizes smaller than normal.<\/p>\n\n<br><p><\/p>",
+		"unit_price": "130",
+		"shopping_category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/free_people_4166_131921_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "18",
+		"item_name": "Cover Up Gray Hair Stick Applicator for Men",
+		"item_description": "<p>\n\n<\/p><p><\/p>\n\n<p>Instant non-dye hair coloring<\/p><p>Washable Stick applicator<\/p><p>Instant touch-up anytime, anywhere<\/p><p>No water needed<\/p><p>No ammonia<\/p><p>No hydrogen peroxide<\/p>\n\n<br><p><\/p>",
+		"unit_price": "50",
+		"shopping_category_id": "1",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/cover_up_1087_62507_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "19",
+		"item_name": "Make up Brush Kit",
+		"item_description": "<p>\n\n<\/p><p>Make up Organizer Material: Fiber, Wood, Synthetic Leather<\/p><p>12-Hole Brush Pouch<\/p><p>Durable<\/p><p>Stylish way to stash your beauty essentials<\/p>\n\n<br><p><\/p>",
+		"unit_price": "20",
+		"shopping_category_id": "1",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/generic_3714_197512_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "20",
+		"item_name": "Underground Mineral Blush 8g",
+		"item_description": "<p>\n\n<\/p><p>Mineral Blush Formulated with Argan oil, Allantoin, &amp; Vitamin E<\/p><p>Promotes ultra moisturization and rich in protein that is good for elasticity of the skin<\/p><p>Helps the skin to get rid of blemishes<\/p><p>Protects and repairs skin caused by free radicals<\/p>\n\n<br><p><\/p>",
+		"unit_price": "50",
+		"shopping_category_id": "1",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/underground_3988_895781_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "21",
+		"item_name": "Mary Kay CC Cream Sunscreen Broad Spectrum SPF 15 29ml",
+		"item_description": "<p>\n\n<\/p><p>CC Cream With SPF15<\/p><p>Lightweight coverage for a natural Oil-free, fragrance-free, non-comedogenic, dermatologist-tested<\/p><p>Flawless-looking complexion<\/p><p>Easy out-the-door option without that made-up look<\/p><p>Suitable for all skin types<\/p>\n\n<br><p><\/p>",
+		"unit_price": "230",
+		"shopping_category_id": "1",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/mary_kay_0939_903802_1_zoom.jpg",
+		"enabled": "1"
+	}, {
+		"id": "22",
+		"item_name": "Empower Weighted Fitness Gloves Comfort Fit",
+		"item_description": "<p><b><\/b>\n\n<\/p><p>Materials: Washable Fabric<\/p><p>Neoprene Open palm keeps hands drier<\/p><p>Secure fit<\/p><p>Great for use in shadow boxing, upper body toning, and cardio<\/p><p>Weight (combined): 2lbs.<\/p>\n\n<br><p><\/p>",
+		"unit_price": "100",
+		"shopping_category_id": "1",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/empower_6728_278002_1_zoom1.jpg",
+		"enabled": "1"
+	}, {
+		"id": "23",
+		"item_name": "Lacoste Vertical Tote Bag Large",
+		"item_description": "<p>\n\n<\/p><p>Fashionable tote bag made of water-resistant<\/p><p> PVC Chic and clean-lined design<\/p><p> Handle Drop: 9.5 inches<\/p><p>Durable, everyday functionality<\/p><p>PVC Double shouldered straps with signature logo<\/p>\n\n<br><p><\/p>",
+		"unit_price": "200",
+		"shopping_category_id": "1",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/lacoste_5617_573581_5_zoom1.jpg",
+		"enabled": "1"
+	}, {
+		"id": "24",
+		"item_name": "Canon IXS 145 16MP Digital Camera",
+		"item_description": "<p>\n\n<\/p><p>16MP 8x optical zoom DIGIC 4+ Image Stabilizer (IS) System 720p HD recording<\/p><p>2.7-inch type monitor <br><\/p><p>Autofocus: Continuous, Servo AF<\/p><p>Shutter Speed 1 - 1\/2000sec<\/p><p>Storage: SD card (sold separately)<\/p>\n\n<br><p><\/p>",
+		"unit_price": "300",
+		"shopping_category_id": "1",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/camara_digital_canon_ixus_145_black_hd_ad_l1.jpg",
+		"enabled": "1"
+	}]
+}

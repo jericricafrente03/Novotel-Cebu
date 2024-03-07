@@ -1,0 +1,65 @@
+apply plugin: 'com.android.application'
+apply plugin: 'realm-android'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
+
+
+    defaultConfig {
+        applicationId "com.ph.bittelasia.meshtv.tv.carlson"
+        minSdkVersion 23
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.02"
+        setProperty("archivesBaseName", "novotel-$versionName")
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+dependencies
+        {
+            implementation fileTree(include: ['*.jar'], dir: 'libs')
+            //default libraries
+            implementation 'androidx.appcompat:appcompat:1.1.0'
+            implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+            implementation 'androidx.recyclerview:recyclerview:1.1.0'
+            testImplementation 'junit:junit:4.12'
+            androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+            androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+            testImplementation 'junit:junit:4.12'
+
+            //Exoplayer
+            implementation 'com.google.android.exoplayer:exoplayer:2.10.5'
+            implementation project(':mtv_packagemanager_interface-1.01-debug')
+
+            //Picasso
+            implementation 'com.squareup.picasso:picasso:2.71828'
+
+            //Bittel Library
+            implementation project(':xmpp_lib-1.066-debug')
+            implementation project(':mtv-library-2.194.3-modified-august-06-2020-debug')
+
+            //Smack Prosody
+            implementation ('org.igniterealtime.smack:smack-tcp:4.2.2'){
+                exclude group: 'xmlpull'
+            }
+            implementation ('org.igniterealtime.smack:smack-android-extensions:4.2.2'){
+                exclude group: 'xmlpull'
+            }
+
+            //libFragment
+            implementation project(path: ':libFragment')
+
+        }
+
+

@@ -1,0 +1,176 @@
+{
+	"action":"UPDATE",
+	"class":"get_all_f_and_b_item",
+	"date":"10 06 2016 12:12:12",
+	"room":0,
+	"data":
+	  [
+            {
+                "id" : "1",
+                "category_id" : "1",
+                "item_description" :"Two eggs cooked to order with Grits, Sawmill Gravy, homemade Buttermilk Biscuits, real butter and the best Preserves, Jam n’ Apple Butter (on request) we could find. Served with Fried Apples or 	Hashbrown Casserole and your choice of Hickory-Smoked Country Ham, Sugar Cured Ham, U.S. Farm-Raised Catfish Fillet, 8 oz. Hamburger Steak, Grilled Pork Chop, or Fried Chicken Tenderloin.",
+                "item_name" : "Uncle Robert's Favorite",
+                "unit_price" : "35.00",
+                "img_uri" : "br_uncletristan.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" :"2",
+                "category_id" : "1",
+                "item_description" :"Two eggs cooked to order with Grits, Sawmill Gravy, homemade Buttermilk Biscuits, real butter and the best Preserves, Jam n’ Apple Butter (on request) we could find. Served with Fried Apples and Hashbrown Casserole and a Sampling of Smoked Sausage, Country Ham and Thick-Sliced Bacon.",
+                "item_name" : "Sunrise Sampler",
+                "unit_price" : "20.00",
+                "img_uri" : "br_sunrise.jpg",
+                "combo_items" : [  ],
+                "enabled" :"1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "3",
+                "category_id" : "1",
+                "item_description" :"Two eggs cooked to order with Grits, Sawmill Gravy, homemade Buttermilk Biscuits, real butter and the best Preserves, Jam n’ Apple Butter (on request) we could find. Plus Fried Apples or Hashbrown Casserole and Choice of Smoked Sausage Patties, Thick-Sliced Bacon, Turkey Sausage or Turkey Bacon.",
+                "item_name" : "Old Timer's Breakfast",
+                "unit_price" : "20.00",
+                "img_uri" : "br_oldtimer.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "4",
+                "category_id" : "1",
+                "item_description" :"Start your day with a mix of low fat vanilla yogurt, fresh seasonal fruit topped with our honey oat granola mix with almonds and dried fruit, two eggs cooked to order, a Wild Maine Blueberry Muffin and your choice of Smoked Sausage Patties, Thick-Sliced Bacon, Turkey Sausage or Turkey Bacon.",
+                "item_name" : "Fresh Start Sampler",
+                "unit_price" : "25.00",
+                "img_uri" : "br_freshstart.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "5",
+                "category_id" : "1",
+                "item_description" :"Three eggs cooked to order with a full order of bacon and sausage patties. Served with Grits, Sawmill Gravy, homemade Buttermilk Biscuits, real butter and the best Preserves, Jam n’ Apple Butter (on request) we could find.",
+                "item_name" : "Double Meat Breakfast",
+                "unit_price" : "25.00",
+                "img_uri" : "br_doublemeat.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "6",
+                "category_id" : "2",
+                "item_description" :"Two boneless spring water fillets lightly seasoned and grilled until fork tender.",
+                "item_name" : "Lemon Pepper Grilled Rainbow Trout",
+                "unit_price" : "25.00",
+                "img_uri" : "lun_lemon.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "7",
+                "category_id" : "2",
+                "item_description" :"Our 8 oz. USDA Choice top sirloin seasoned and grilled to your order. If you like, substitute a House Salad and Baked Potato for the three vegetables.",
+                "item_name" : "Grilled Sirloin Steak",
+                "unit_price" : "27.00",
+                "img_uri" : "lun_sirloin.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "8",
+                "category_id" : "2",
+                "item_description" :"A generous portion of our USDA choice steak breaded and deep fried then topped with our own Sawmill Gravy.",
+                "item_name" : "Country Fried Steak",
+                "unit_price" : "21.00",
+                "img_uri" : "lun_shrimpsteak.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "9",
+                "category_id" : "2",
+                "item_description" :"A full half-pound of our sweet buttermilk breaded fried shrimp served up with hushpuppies.",
+                "item_name" : "Country Fried Shrimp Platter",
+                "unit_price" : "23.00",
+                "img_uri" : "lun_friedshrimp.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "10",
+                "category_id" : "2",
+                "item_description" :"Our thick-cut USDA Choice rib eye is aged 28 days for exceptional tenderness and flavor. Lightly seasoned and grilled to your order. If you like, substitute a House Salad and Baked Potato for the three vegetables.",
+                "item_name" : "10 oz Rib Eye Steak",
+                "unit_price" : "35.00",
+                "img_uri" : "lun_rib.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "11",
+                "category_id" : "3",
+                "item_description" :"Our thick-cut USDA Choice chuck roast is slow roasted in the “pot roast” tradition up to 14 hours until fork tender.",
+                "item_name" : "Roast Beef Dinner",
+                "unit_price" : "20.00",
+                "img_uri" : "din_roastbeef.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "12",
+                "category_id" : "3",
+                "item_description" :"A thick slice of our special recipe Meatloaf made with tomatoes, onions and green peppers.",
+                "item_name" : "Meatloaf Dinner",
+                "unit_price" : "25.00",
+                "img_uri" : "din_meatloaf.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "13",
+                "category_id" : "3",
+                "item_description" :"A boneless white fish fillet dusted in a traditional cornmeal and flour mix and grilled until fork tender beneath a light, crispy crust.",
+                "item_name" : "Harddock Dinner",
+                "unit_price" : "25.00",
+                "img_uri" : "din_harddock.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "14",
+                "category_id" : "3",
+                "item_description" :"A boneless white fish fillet dusted in a traditional cornmeal and flour mix and grilled until fork tender beneath a light, crispy crust.",
+                "item_name" : "Chicken Tenderloin Dinner",
+                "unit_price" : "20.00",
+                "img_uri" : "din_chickentender.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" : "15",
+                "category_id" : "3",
+                "item_description" :"Each day we start with “the best of the breast” chicken tenderloins and our freshly prepared dumplins. Both are slow simmered in our own chicken stock right in our kitchens.",
+                "item_name" : "Chicken n' Dumplins Platter",
+                "unit_price" : "20.00",
+                "img_uri" : "din_chickenanddumpling.jpg",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            }
+            
+        ]
+}
+

@@ -1,0 +1,23 @@
+ {
+   "action": "UPDATE",
+   "class": "get_subscriber",
+   "data":
+   {
+      "account_id": "112194112194",
+      "title": "Mr.",
+      "lastname": "Holway",
+      "firstname": "Fredek",
+      "middlename": "Thomas",
+      "contact_no": "8345526",
+      "mobile_no": "09553368796",
+      "email": "holway.fredek@gmail.com",
+      "house_no": "5",
+      "subdivision": "Broadway",
+      "barangay": "Busay",
+      "city": "Cebu",
+      "country_code": "PH",
+      "postal_code": "6039",
+      "status": "1",
+      "province":"Cebu"
+   }
+}

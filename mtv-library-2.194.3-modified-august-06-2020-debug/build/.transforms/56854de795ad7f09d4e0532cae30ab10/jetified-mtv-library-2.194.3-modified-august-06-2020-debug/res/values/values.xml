@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="direction_icons">
+    	<!-- this list must match exactly with maneuver IDs of
+    	http://open.mapquestapi.com/guidance/#maneuvertypes -->
+        <item>@drawable/ic_empty</item> <!-- 0 -->
+        <item>@drawable/ic_continue</item>
+        <item>@drawable/ic_continue</item>
+        <item>@drawable/ic_slight_left</item>
+        <item>@drawable/ic_turn_left</item>
+		<item>@drawable/ic_sharp_left</item> <!-- 5 -->
+		<item>@drawable/ic_slight_right</item>
+		<item>@drawable/ic_turn_right</item>
+		<item>@drawable/ic_sharp_right</item>
+		<item>@drawable/ic_empty</item>
+		<item>@drawable/ic_empty</item> <!-- 10 -->
+		<item>@drawable/ic_continue</item>
+		<item>@drawable/ic_u_turn</item>
+		<item>@drawable/ic_u_turn</item>
+		<item>@drawable/ic_u_turn</item>
+		<item>@drawable/ic_slight_left</item> <!-- 15 -->
+		<item>@drawable/ic_slight_right</item>
+		<item>@drawable/ic_slight_left</item>
+		<item>@drawable/ic_slight_right</item>
+		<item>@drawable/ic_continue</item>
+		<item>@drawable/ic_empty</item> <!-- 20 -->
+		<item>@drawable/ic_empty</item>
+		<item>@drawable/ic_empty</item>
+		<item>@drawable/ic_empty</item>
+		<item>@drawable/ic_arrived</item>
+		<item>@drawable/ic_arrived</item> <!-- 25 -->
+		<item>@drawable/ic_arrived</item>
+		<item>@drawable/ic_roundabout</item>
+		<item>@drawable/ic_roundabout</item>
+		<item>@drawable/ic_roundabout</item>
+		<item>@drawable/ic_roundabout</item> <!-- 30 -->
+		<item>@drawable/ic_roundabout</item>
+		<item>@drawable/ic_roundabout</item>
+		<item>@drawable/ic_roundabout</item>
+		<item>@drawable/ic_roundabout</item>
+		<item>@drawable/ic_empty</item> <!-- 35 -->
+		<item>@drawable/ic_empty</item>
+		<item>@drawable/ic_empty</item>
+		<item>@drawable/ic_empty</item>
+		<item>@drawable/ic_empty</item> <!-- 39 -->
+	</string-array>
+    <string-array name="osm_poi_tags">
+		<!-- Aeroway -->
+		<item>airport|aeroway=aerodrome</item>
+		<!-- Amenity -->
+		<item>atm|amenity=atm</item>
+		<item>bank|amenity=bank</item>
+		<item>bar|amenity=bar</item>
+		<item>bus station|public_transport=station</item>
+		<item>cafe|amenity=cafe</item>
+		<item>casino|amenity=casino</item>
+		<item>car rental|amenity=car_rental</item>
+		<item>car wash|amenity=car_wash</item>
+		<item>cinema|amenity=cinema</item>
+		<item>community centre|amenity=community_center</item>
+		<item>cycle parking|amenity=bicycle_parking</item>
+		<item>dentist|amenity=dentist</item>
+		<item>doctors|amenity=doctors</item>
+		<item>fast food|amenity=fast_food</item>
+		<item>fire station|amenity=fire_station</item>
+		<item>fuel|amenity=fuel</item>
+		<item>hospital|amenity=hospital</item>
+		<item>kindergarten|amenity=kindergarten</item>
+		<item>library|amenity=library</item>
+		<item>marketplace|amenity=marketplace</item>
+		<item>night club|amenity=nightclub</item>
+		<item>nursery|amenity=nursery</item>
+		<item>parking|amenity=parking</item>
+		<item>pharmacy|amenity=pharmacy</item>
+		<item>phone booth|amenity=telephone</item>
+		<item>police|amenity=police</item>
+		<item>post box|amenity=post_box</item>
+		<item>post office|amenity=post_office</item>
+		<item>pub|amenity=pub</item>
+		<item>recycling point|amenity=recycling</item>
+		<item>restaurant|amenity=restaurant</item>
+		<item>retirement home|amenity=retirement_home</item>
+		<item>school|amenity=school</item>
+		<item>shelter|amenity=shelter</item>
+		<item>taxi|amenity=taxi</item>
+		<item>telephone|amenity=telephone</item>
+		<item>theatre|amenity=theatre</item>
+		<item>toilets|amenity=toilets</item>
+		<item>town hall|amenity=townhall</item>
+		<item>university|amenity=university</item>
+		<item>veterinary surgery|amenity=veterinary</item>
+		<!-- Building -->
+		<item>church|building=church</item>
+		<item>hotel|building=hotel</item>
+		<!-- Historic -->
+		<item>castle|historic=castle</item>
+		<item>monument|historic=monument</item>
+		<item>ruin|historic=ruin</item>
+		<!-- Land use -->
+		<item>cemetery|landuse=cemetery</item>
+		<item>mine|landuse=mine</item>
+		<!-- Leisure -->
+		<item>golf course|leisure=golf</item>
+		<item>park|leisure=park</item>
+		<item>stadium|leisure=stadium</item>
+		<item>swimming pool|leisure=swimming_pool</item>
+		<item>sports pitch|leisure=pitch</item>
+		<item>water park|leisure=water_park</item>
+		<!-- Natural -->
+		<item>beach|natural=beach</item>
+		<!-- Public Transport -->
+		<item>station|railway=station</item>
+		<!-- Shop -->
+		<item>bakery|shop=bakery</item>
+		<item>book shop|shop=books</item>
+		<item>butcher|shop=butcher</item>
+		<item>car shop|shop=car</item>
+		<item>car dealer|shop=car_dealer</item>
+		<item>car parts|shop=car_parts</item>
+		<item>car repair|shop=car_repair</item>
+		<item>clothes shop|shop=clothes</item>
+		<item>convenience store|shop=convenience</item>
+		<item>do-it-yourself|shop=doityourself</item>
+		<item>drugstore|shop=drugstore</item>
+		<item>dry cleaning|shop=dry_cleaning</item>
+		<item>fish shop|shop=fish</item>
+		<item>florist|shop=florist</item>
+		<item>furniture|shop=furniture</item>
+		<item>garden center|shop=garden_centre</item>
+		<item>gift shop|shop=gift</item>
+		<item>grocery shop|shop=grocery</item>
+		<item>haidresser|shop=hairdresser</item>
+		<item>jewelry shop|shop=jewelry</item>
+		<item>kiosk|shop=kiosk</item>
+		<item>laundry|shop=laundry</item>
+		<item>mall|shop=mall</item>
+		<item>optician|shop=optician</item>
+		<item>shoe shop|shop=shoes</item>
+		<item>sports shop|shop=sports</item>
+		<item>supermarket|shop=supermarket</item>
+		<item>toy shop|shop=toys</item>
+		<item>travel agency|shop=travel_agency</item>
+		<!-- Tourism -->
+		<item>attraction|tourism=attraction</item>
+		<item>camp site|tourism=camp_site</item>
+		<item>caravan site|tourism=caravan_site</item>
+		<item>information|tourism=information</item>
+		<item>museum|tourism=museum</item>
+		<item>picnic site|tourism=picnic_site</item>
+		<item>theme park|tourism=theme_park</item>
+		<item>viewpoint|tourism=viewpoint</item>
+		<item>zoo|tourism=zoo</item>
+	</string-array>
+    <string-array name="poi_tags">
+		<!-- Aeroway -->
+		<item>Airport</item>
+		<!-- Amenity -->
+		<item>ATM</item>
+		<item>Bank</item>
+		<item>Bar</item>
+		<item>Bus station</item>
+		<item>Cafe</item>
+		<item>Casino</item>
+		<item>Car rental</item>
+		<!-- <item>car sharing</item> -->
+		<item>Car wash</item>
+		<item>Cinema</item>
+		<item>Community Centre</item>
+		<item>Cycle parking</item>
+		<item>Dentist</item>
+		<item>Doctors</item>
+		<item>Fast food</item>
+		<item>Fire station</item>
+		<item>Fuel</item>
+		<item>Hospital</item>
+		<item>Kindergarten</item>
+		<item>Library</item>
+		<item>Marketplace</item>
+		<item>Night club</item>
+		<item>Nursery</item>
+		<item>Parking</item>
+		<item>Pharmacy</item>
+		<item>Phone booth</item>
+		<item>Police</item>
+		<item>Post box</item>
+		<item>Post office</item>
+		<item>Pub</item>
+		<item>Recycling point</item>
+		<item>Restaurant</item>
+		<item>Retirement home</item>
+		<item>School</item>
+		<item>Shelter</item>
+		<item>Taxi</item>
+		<item>Telephone</item>
+		<item>Theatre</item>
+		<item>Toilets</item>
+		<item>Town Hall</item>
+		<item>University</item>
+		<item>Veterinary surgery</item>
+		<!-- Building -->
+		<item>Church</item>
+		<item>Hotel</item>
+		<!-- Historic -->
+		<item>Castle</item>
+		<item>Monument</item>
+		<!-- Land use -->
+		<item>Cemetery</item>
+		<item>Landfill</item>
+		<item>Mine</item>
+		<item>Wood</item>
+		<!-- Leisure -->
+		<item>Golf course</item>
+		<item>Park</item>
+		<item>Stadium</item>
+		<item>Swimming pool</item>
+		<!-- Natural -->
+		<item>Beach</item>
+		<!-- Public Transport -->
+		<item>Station</item>
+		<!-- Shop -->
+		<item>Bakery</item>
+		<item>Book shop</item>
+		<item>Butcher</item>
+		<item>Car shop</item>
+		<item>Car dealer</item>
+		<item>Car parts</item>
+		<item>Car repair</item>
+		<item>Clothes shop</item>
+		<item>Convenience store</item>
+		<!-- <item>Copy shop</item> -->
+		<!-- <item>Discount items shop</item> -->
+		<item>Do-It-Yourself</item>
+		<item>Drugstore</item>
+		<item>Dry Cleaning</item>
+		<item>Fish shop</item>
+		<item>Florist</item>
+		<item>Furniture</item>
+		<item>Garden center</item>
+		<item>Gift shop</item>
+		<item>Grocery shop</item>
+		<item>Haidresser</item>
+		<item>Jewelry shop</item>
+		<item>Kiosk</item>
+		<item>Laundry</item>
+		<item>Mall</item>
+		<item>Optician</item>
+		<item>Shoe shop</item>
+		<item>Sports shop</item>
+		<item>Supermarket</item>
+		<item>Toy shop</item>
+		<item>Travel agency</item>
+		<!-- Sport -->
+		<item>Sports pitch</item>
+		<!-- Tourism -->
+		<item>Attraction</item>
+		<item>Camp site</item>
+		<item>Caravan site</item>
+		<item>Information</item>
+		<item>Museum</item>
+		<item>Picnic site</item>
+		<item>Theme park</item>
+		<item>Viewpoint</item>
+		<item>Ruin</item>
+		<item>Water park</item>
+		<item>Zoo</item>
+		<!-- Non-Nominatim tags, for other services: -->
+		<item>wikipedia</item>
+		<item>flickr</item>
+		<item>picasa</item>
+	</string-array>
+    <color name="black">#000000</color>
+    <color name="blue_border">#00b4ea</color>
+    <color name="blue_fill">#6000b4ea</color>
+    <color name="blue_text">#506f99</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="darkblue">#FF003397</color>
+    <color name="gray">#454545</color>
+    <color name="highlighter">#f5921e</color>
+    <color name="light_orange">#ffc075</color>
+    <color name="lightblue_bg2">#FFbdced6</color>
+    <color name="novotel_blue">#223e91</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="trans_black">#80000000</color>
+    <color name="transparent">#4e1d1d1d</color>
+    <color name="white">#ffffff</color>
+    <color name="yelloworange_bg_75_opacity">#BFf5921e</color>
+    <dimen name="app_icon">70dp</dimen>
+    <dimen name="app_icon_margin_right">2dp</dimen>
+    <dimen name="app_icon_selected">94dp</dimen>
+    <dimen name="app_x">100dp</dimen>
+    <dimen name="app_x_selected">100dp</dimen>
+    <dimen name="app_y">100dp</dimen>
+    <dimen name="app_y_selected">130dp</dimen>
+    <dimen name="arrow_bar_width">100dp</dimen>
+    <dimen name="banner_ads_height">80dp</dimen>
+    <dimen name="banner_ads_margintop">140dp</dimen>
+    <dimen name="buttons_height">45dp</dimen>
+    <dimen name="category_head_height">45dp</dimen>
+    <dimen name="component_margin">4dp</dimen>
+    <dimen name="date_time_bar">60dp</dimen>
+    <dimen name="fragment_panel">500dp</dimen>
+    <dimen name="info_bar_height">60dp</dimen>
+    <dimen name="item_padding">5dp</dimen>
+    <dimen name="item_right_padding">20sp</dimen>
+    <dimen name="item_text">20sp</dimen>
+    <dimen name="logo_top_margin">0dp</dimen>
+    <dimen name="logo_welcome_subtext">20sp</dimen>
+    <dimen name="logo_welcome_subtext_margintop">20dp</dimen>
+    <dimen name="logo_welcome_subtext_maxwidth">750dp</dimen>
+    <dimen name="logo_welcome_text">24sp</dimen>
+    <dimen name="logo_x">300dp</dimen>
+    <dimen name="logo_y">175dp</dimen>
+    <dimen name="main_layout_margintop">150dp</dimen>
+    <dimen name="margin_left">15dp</dimen>
+    <dimen name="margin_left_of_logo">350dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="notification_image_x">40dp</dimen>
+    <dimen name="notification_image_y">40dp</dimen>
+    <dimen name="notification_left_margin">24dp</dimen>
+    <dimen name="notification_margin">5dp</dimen>
+    <dimen name="padding_left">8dp</dimen>
+    <dimen name="padding_right">8dp</dimen>
+    <dimen name="preview_x">700dp</dimen>
+    <dimen name="preview_y">550dp</dimen>
+    <dimen name="tv_left_margin">40dp</dimen>
+    <dimen name="tv_right_margin">40dp</dimen>
+    <dimen name="tv_top_margin">24dp</dimen>
+    <dimen name="weather_margin">8dp</dimen>
+    <string name="app_name">OSMNavigator</string>
+    <string name="cancel">Cancel</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="feature">Feature</string>
+    <string name="feeds_group_event">Group/Event</string>
+    <string name="feeds_location">Location</string>
+    <string name="feeds_time">Time</string>
+    <string name="file_kml_open">File (.kml, .kmz or .json)</string>
+    <string name="guest_guest_label">Guest</string>
+    <string name="guest_room_label">Room</string>
+    <string name="items_list_title">Itinerary:</string>
+    <string name="itinerary_markers_title">Route Via-Points</string>
+    <string name="kml_item_menu_behind">Push behind</string>
+    <string name="kml_item_menu_copy">Copy</string>
+    <string name="kml_item_menu_cut">Cut</string>
+    <string name="kml_item_menu_front">Bring to front</string>
+    <string name="kml_item_menu_none">Cancel</string>
+    <string name="kml_item_menu_show_on_map">Show on map</string>
+    <string name="kml_main_description">Description</string>
+    <string name="kml_main_name">Name</string>
+    <string name="kml_main_style_prompt">Styles</string>
+    <string name="kml_main_visible">Visible</string>
+    <string name="kml_option_menu_new">New Folder</string>
+    <string name="kml_option_menu_paste">Paste</string>
+    <string name="kml_style_fill_color">Fill color:</string>
+    <string name="kml_style_icon_href">Icon Href</string>
+    <string name="kml_style_line_color">Line color:</string>
+    <string name="kml_style_line_width">Line width:</string>
+    <string name="kml_style_styleID">Style ID</string>
+    <string name="kml_styles_title">Shared Styles:</string>
+    <string name="loading">Loading</string>
+    <string name="logo_welcome_default">Welcome</string>
+    <string name="menu_cache">Cache Manager</string>
+    <string name="menu_cache_usage">Cache usage</string>
+    <string name="menu_clear_view_area">Clear view area</string>
+    <string name="menu_departure">Set Departure</string>
+    <string name="menu_destination">Set Destination</string>
+    <string name="menu_download_view_area">Download view area</string>
+    <string name="menu_itinerary">Itinerary</string>
+    <string name="menu_kml">KML Toolbox</string>
+    <string name="menu_kml_clear">Clear</string>
+    <string name="menu_kml_get_overlays">Pick Overlays</string>
+    <string name="menu_kml_styles">Edit Shared Styles...</string>
+    <string name="menu_kml_tree">Edit Features...</string>
+    <string name="menu_kml_url">Open url...</string>
+    <string name="menu_kmlpoint">Add KML Point</string>
+    <string name="menu_none">Cancel</string>
+    <string name="menu_open_file">Open file...</string>
+    <string name="menu_overpassapi_wizard">OverpassAPI Wizard...</string>
+    <string name="menu_pois">Features list</string>
+    <string name="menu_route">Route Provider</string>
+    <string name="menu_route_google">Google - Car</string>
+    <string name="menu_route_graphhopper_bicycle">GraphHopper - Bicycle</string>
+    <string name="menu_route_graphhopper_fastest">GraphHopper - Car</string>
+    <string name="menu_route_graphhopper_pedestrian">GraphHopper - Pedestrian</string>
+    <string name="menu_route_osrm">OSRM - Car</string>
+    <string name="menu_save_file">Save as...</string>
+    <string name="menu_tile">Tile Provider</string>
+    <string name="menu_viapoint">Add Via-Point</string>
+    <string name="my_position">My Position</string>
+    <string name="ok">OK</string>
+    <string name="route">Route</string>
+    <string name="search">Search</string>
+    <string name="step">Step</string>
+    <string name="style_item_menu_cut">Delete</string>
+    <string name="style_item_menu_none">Cancel</string>
+    <string name="style_option_menu_new">New Style</string>
+    <string name="url_kml_open">KML url</string>
+    <string name="viapoint">Via-Point</string>
+    <string name="wait">Please wait</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <declare-styleable name="MeshTVCustomListView">
+        <attr format="enum" name="type">
+            <enum name="carousel" value="0"/>
+            <enum name="continuous" value="1"/>
+            <enum name="paged" value="2"/>
+        </attr>
+        <attr format="integer" name="target"/>
+        <attr format="integer" name="maxViewed"/>
+        <attr format="reference" name="item_layout"/>
+        <attr format="reference" name="item_layout_selected"/>
+        <attr format="reference" name="item_layout_pressed"/>
+        <attr format="boolean" name="needs_focus">
+        </attr>
+
+    </declare-styleable>
+</resources>

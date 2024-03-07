@@ -1,0 +1,10 @@
+{"action":"UPDATE","class":"get_facility_category","room":0,"data":[
+{
+"id":"1",
+"category_name":"Sports and Leisure",
+"category_description":"Sports and Leisure",
+"img_preview":"",
+"img_uri":"",
+"order_no":"1",
+"is_service":"0",
+"pie_color":""},{"id":"2","category_name":"Spa and Salon","category_description":"Spa and Salon","img_preview":"","img_uri":"","order_no":"2","is_service":"0","pie_color":""}]}

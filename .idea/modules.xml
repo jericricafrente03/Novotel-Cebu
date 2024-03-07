@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oakwood.iml" filepath="$PROJECT_DIR$/.idea/modules/oakwood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libFragment/oakwood.libFragment.iml" filepath="$PROJECT_DIR$/.idea/modules/libFragment/oakwood.libFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtv-library-2.194.3-modified-august-06-2020-debug/oakwood.mtv-library-2.194.3-modified-august-06-2020-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/mtv-library-2.194.3-modified-august-06-2020-debug/oakwood.mtv-library-2.194.3-modified-august-06-2020-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtv_packagemanager_interface-1.01-debug/oakwood.mtv_packagemanager_interface-1.01-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/mtv_packagemanager_interface-1.01-debug/oakwood.mtv_packagemanager_interface-1.01-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/radison/oakwood.radison.iml" filepath="$PROJECT_DIR$/.idea/modules/radison/oakwood.radison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp_lib-1.066-debug/oakwood.xmpp_lib-1.066-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp_lib-1.066-debug/oakwood.xmpp_lib-1.066-debug.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--test color-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark8">#d2010615</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <!--white-->
+    <color name="carlson_white">#ffffff</color>
+    <color name="white_10">#10FFFFFF</color>
+    <color name="carlson_whited4">#afffffff</color>
+
+    <color name="red">#ae0909</color>
+    <color name="red9">#c23131</color>
+
+
+    <!--blue-->
+    <color name="carlson_blue">#0b1a2b</color>
+    <color name="carlson_skyblue">#00bdf7</color>
+
+    <!--black-->
+    <color name="carlson_black">#000000</color>
+    <color name="carlson_black183">#BA000000</color>
+
+    <!--transparent-->
+    <color name="carlson_tranparent">#00000000</color>
+
+    <!--gray-->
+    <color name="carlson_gray">#8d9091</color>
+    <color name="carlson_graydark">#515253</color>
+
+    <!--green-->
+    <color name="carlson_green">#1E9C3D</color>
+    <color name="carlson_greendark">#035003</color>
+
+    <!--orange-->
+    <color name="orange54">#9cf73601</color>
+
+    <!--yellow_orange-->
+    <color name="yellow">#ecb22b</color>
+    <color name="yelloworange">#FFf5921e</color>
+    <color name="yelloworange_bg_75_opacity">#BFf5921e</color>
+</resources>

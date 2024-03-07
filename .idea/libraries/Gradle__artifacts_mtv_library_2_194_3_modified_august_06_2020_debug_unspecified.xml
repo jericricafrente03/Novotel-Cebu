@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:mtv-library-2.194.3-modified-august-06-2020-debug:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mtv-library-2.194.3-modified-august-06-2020-debug/build/.transforms/56854de795ad7f09d4e0532cae30ab10/jetified-mtv-library-2.194.3-modified-august-06-2020-debug/jars/libs/osmdroid-android-4.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/mtv-library-2.194.3-modified-august-06-2020-debug/build/.transforms/56854de795ad7f09d4e0532cae30ab10/jetified-mtv-library-2.194.3-modified-august-06-2020-debug/res" />
+      <root url="jar://$PROJECT_DIR$/mtv-library-2.194.3-modified-august-06-2020-debug/build/.transforms/56854de795ad7f09d4e0532cae30ab10/jetified-mtv-library-2.194.3-modified-august-06-2020-debug/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/mtv-library-2.194.3-modified-august-06-2020-debug/build/.transforms/56854de795ad7f09d4e0532cae30ab10/jetified-mtv-library-2.194.3-modified-august-06-2020-debug/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/mtv-library-2.194.3-modified-august-06-2020-debug/build/.transforms/56854de795ad7f09d4e0532cae30ab10/jetified-mtv-library-2.194.3-modified-august-06-2020-debug/jars/libs/slf4j-android-1.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

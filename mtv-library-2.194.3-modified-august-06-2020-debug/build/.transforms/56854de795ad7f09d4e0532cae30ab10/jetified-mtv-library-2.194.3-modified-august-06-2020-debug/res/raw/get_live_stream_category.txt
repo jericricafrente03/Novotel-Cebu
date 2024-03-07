@@ -1,0 +1,25 @@
+{
+	"action":"UPDATE",
+	"class":"get_live_stream_category",
+	"room":0,
+	"date":"09 13 2016 20:32:53",
+	"data":
+	[
+
+	  {
+	    "category_description" : "KOREAN DRAMA",
+            "category_name" : "KOREAN DRAMA",
+            "id" : "1"
+          },
+          { "category_description" : "JAPANESE DRAMA",
+            "category_name" : "JAPANESE DRAMA",
+            "id" : "2"
+          },
+          { "category_description" : "HONG KONG DRAMA",
+            "category_name" : "HONG KONG DRAMA",
+            "id" : "3"
+	  }
+
+	]
+}
+

@@ -1,0 +1,11 @@
+{
+	"firstname":"Mars Ray",
+	"lastname":"Araullo",
+	"temp":"37",
+	"city":"Amsterdam",
+	"country":"Netherlands",
+	"home_city":"Manila",
+	"home_country":"Philippines",
+	"home_timezone":"GMT+8",
+    "home_temp":"23"
+}

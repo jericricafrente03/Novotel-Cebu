@@ -1,0 +1,35 @@
+{
+    "action":"UPDATE",
+    "class":"get_all_facilities",
+    "room":0,
+    "data":
+        [
+            {
+                "id":"2",
+                "item_name":"In Balance Fitness Center",
+                "item_description":"Free (in-house guests)",
+                "unit_price":"0",
+                "category_id":"1",
+                "img_uri":"http:\/\/155.94.175.130:6060\/\/images\/facilities\/Gym.jpg",
+                "enabled":"1"
+            },
+            {
+                "id":"3",
+                "item_name":"Tennis Court",
+                "item_description":"Outdoor Tennis Court makes you feel fresh and full energy.",
+                "unit_price":"0",
+                "category_id":"1",
+                "img_uri":"http:\/\/155.94.175.130:6060\/\/images\/facilities\/Tennis_Court.jpg",
+                "enabled":"1"
+            },
+            {
+                "id":"5",
+                "item_name":"Hair Saloon by Agnes Lim",
+                "item_description":"Agnes Lim Fancy House",
+                "unit_price":"0",
+                "category_id":"2",
+                "img_uri":"http:\/\/155.94.175.130:6060\/\/images\/facilities\/Agnes_Lim_Fancy_House.jpg",
+                "enabled":"1"
+            }
+         ]
+  }

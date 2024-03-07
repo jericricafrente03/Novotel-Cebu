@@ -1,0 +1,25 @@
+{
+	"action": "UPDATE",
+	"class": "get_package_channels",
+	"data": [{
+		"id": "1",
+		"package_id": "2",
+		"channel_id": "6"
+	}, {
+		"id": "2",
+		"package_id": "1",
+		"channel_id": "4"
+	}, {
+		"id": "3",
+		"package_id": "3",
+		"channel_id": "2"
+	}, {
+		"id": "4",
+		"package_id": "3",
+		"channel_id": "3"
+	}, {
+		"id": "5",
+		"package_id": "1",
+		"channel_id": "6"
+	}]
+}

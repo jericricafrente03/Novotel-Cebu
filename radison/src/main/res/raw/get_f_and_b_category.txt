@@ -1,0 +1,47 @@
+{
+	"action": "UPDATE",
+	"class": "get_f_and_b_category",
+	"data": [{
+		"id": "1",
+		"category_name": "All",
+		"category_description": "All",
+		"is_service": "0",
+		"order_no": "0",
+		"color": "#2980b9"
+	}, {
+		"id": "2",
+		"category_name": "Breakfast",
+		"category_description": "Breakfast",
+		"is_service": "0",
+		"order_no": "0",
+		"color": "#3498db"
+	}, {
+		"id": "3",
+		"category_name": "Lunch",
+		"category_description": "Lunch",
+		"is_service": "0",
+		"order_no": "0",
+		"color": "#9b59b6"
+	}, {
+		"id": "4",
+		"category_name": "Dinner",
+		"category_description": "Dinner",
+		"is_service": "0",
+		"order_no": "0",
+		"color": "#2c3e50"
+	}, {
+		"id": "5",
+		"category_name": "Snacks",
+		"category_description": "Snacks",
+		"is_service": "0",
+		"order_no": "0",
+		"color": "#e67e22"
+	}, {
+		"id": "6",
+		"category_name": "Drinks",
+		"category_description": "Drinks",
+		"is_service": "0",
+		"order_no": "0",
+		"color": "#f1c40f"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	"action":"UPDATE",
+	"class":"get_concierge_category",
+	"date":"10 06 2016 12:12:12",
+	"room":0,
+	"data":
+	[
+            {
+                "category_image" : "NA",
+                "category_description" : "All",
+                "category_name" : "Services",
+                "id" : "0",
+                "is_service" : "0"
+            },
+            {
+                "category_image" : "NA",
+                "category_description" : "All",
+                "category_name" : "Requests",
+                "id" : "1",
+                "is_service" : "0"
+            }
+        ]
+}
+

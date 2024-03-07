@@ -1,0 +1,32 @@
+{
+	"action":"UPDATE",
+	"class":"snack",
+	"date":"10 06 2016 12:12:12",
+	"room":0,
+	"data":
+	  [
+            {
+                "id" : "1",
+                "category_id" : "1",
+                "item_description" :"",
+                "item_name" : "Snacks",
+                "unit_price" : "0",
+                "img_uri" : "",
+                "combo_items" : [  ],
+                "enabled" : "1",
+                "is_combo" : "0"
+            },
+            {
+                "id" :"2",
+                "category_id" : "1",
+                "item_description" :"",
+                "item_name" : "Drinks",
+                "unit_price" : "0",
+                "img_uri" : "",
+                "combo_items" : [  ],
+                "enabled" :"1",
+                "is_combo" : "0"
+            }
+            ]
+}
+

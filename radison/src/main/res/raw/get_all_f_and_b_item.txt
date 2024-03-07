@@ -1,0 +1,225 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_f_and_b_item",
+	"data": [{
+		"id": "1",
+		"item_name": "Uncle Steward's Favorite",
+		"item_description": "Two eggs cooked to order with Grits, Sawmill Gravy, homemade Buttermilk Biscuits, real butter and the best Preserves, Jam n\u2019 Apple Butter (on request) we could find. Served with Fried Apples or   Hashbrown Casserole and your choice of Hickory-Smoked Country Ham, Sugar Cured Ham, U.S. Farm-Raised Catfish Fillet, 8 oz. Hamburger Steak, Grilled Pork Chop, or Fried Chicken Tenderloin.<br>",
+		"unit_price": "155",
+		"category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/br_uncletristan1.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "2",
+		"item_name": "Sunset Sampler",
+		"item_description": "<p><\/p>Two eggs cooked to order with Grits, Sawmill Gravy, homemade Buttermilk Biscuits, real butter and the best Preserves, Jam n\u2019 Apple Butter (on request) we could find. Served with Fried Apples and Hashbrown Casserole and a Sampling of Smoked Sausage, Country Ham and Thick-Sliced Bacon.<br><p><\/p>",
+		"unit_price": "100",
+		"category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/br_sunrise.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "3",
+		"item_name": "Old Timer's Breakfast",
+		"item_description": "<p><\/p>Two eggs cooked to order with Grits, Sawmill Gravy, homemade Buttermilk Biscuits, real butter and the best Preserves, Jam n\u2019 Apple Butter (on request) we could find. Plus Fried Apples or Hashbrown Casserole and Choice of Smoked Sausage Patties, Thick-Sliced Bacon, Turkey Sausage or Turkey Bacon.<br><p><\/p>",
+		"unit_price": "100",
+		"category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/br_oldtimer.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "4",
+		"item_name": "Fresh Start Sampler",
+		"item_description": "<p><\/p>Start your day with a mix of low fat vanilla yogurt, fresh seasonal fruit topped with our honey oat granola mix with almonds and dried fruit, two eggs cooked to order, a Wild Maine Blueberry Muffin and your choice of Smoked Sausage Patties, Thick-Sliced Bacon, Turkey Sausage or Turkey Bacon.<br><p><\/p>",
+		"unit_price": "100",
+		"category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/br_freshstart.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "5",
+		"item_name": "Double Meat Breakfast",
+		"item_description": "<p><\/p>Three eggs cooked to order with a full order of bacon and sausage patties. Served with Grits, Sawmill Gravy, homemade Buttermilk Biscuits, real butter and the best Preserves, Jam n\u2019 Apple Butter (on request) we could find.<br><p><\/p>",
+		"unit_price": "220",
+		"category_id": "2",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/br_doublemeat.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "6",
+		"item_name": "Lemon Pepper Grilled Rainbow Trout",
+		"item_description": "<p><\/p>Two boneless spring water fillets lightly seasoned and grilled until fork tender.<br><p><\/p>",
+		"unit_price": "250",
+		"category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/lun_lemon.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "7",
+		"item_name": "Grilled Sirloin Steak",
+		"item_description": "<p><\/p>Our 8 oz. USDA Choice top sirloin seasoned and grilled to your order. If you like, substitute a House Salad and Baked Potato for the three vegetables.<br><p><\/p>",
+		"unit_price": "200",
+		"category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/lun_sirloin.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "8",
+		"item_name": "Country Fried Steak",
+		"item_description": "<p><\/p>A generous portion of our USDA choice steak breaded and deep fried then topped with our own Sawmill Gravy.<br><p><\/p>",
+		"unit_price": "275",
+		"category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/lun_shrimpsteak.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "9",
+		"item_name": "Country Fried Shrimp Platter",
+		"item_description": "<p><\/p>A full half-pound of our sweet buttermilk breaded fried shrimp served up with hushpuppies.<br><p><\/p>",
+		"unit_price": "250",
+		"category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/lun_friedshrimp.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "10",
+		"item_name": "10 oz Rib Eye Steak",
+		"item_description": "<p><\/p>Our thick-cut USDA Choice rib eye is aged 28 days for exceptional tenderness and flavor. Lightly seasoned and grilled to your order. If you like, substitute a House Salad and Baked Potato for the three vegetables.<br><p><\/p>",
+		"unit_price": "210",
+		"category_id": "3",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/lun_rib.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "11",
+		"item_name": "Roast Beef Dinner",
+		"item_description": "<p><\/p>Our thick-cut USDA Choice chuck roast is slow roasted in the \u201cpot roast\u201d tradition up to 14 hours until fork tender.<br><p><\/p>",
+		"unit_price": "300",
+		"category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/din_roastbeef.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "12",
+		"item_name": "Meatloaf Dinner",
+		"item_description": "<p><\/p>A thick slice of our special recipe Meatloaf made with tomatoes, onions and green peppers.<br><p><\/p>",
+		"unit_price": "250",
+		"category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/din_meatloaf.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "13",
+		"item_name": "Harddock Dinner",
+		"item_description": "<p><\/p>A boneless white fish fillet dusted in a traditional cornmeal and flour mix and grilled until fork tender beneath a light, crispy crust.<br><p><\/p>",
+		"unit_price": "260",
+		"category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/din_harddock.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "14",
+		"item_name": "Chicken Tenderloin Dinner",
+		"item_description": "<p><\/p>A boneless white fish fillet dusted in a traditional cornmeal and flour mix and grilled until fork tender beneath a light, crispy crust.<br><p><\/p>",
+		"unit_price": "350",
+		"category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/din_chickentender.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "15",
+		"item_name": "Chicken n' Dumplins Platter",
+		"item_description": "<p><\/p>Each day we start with \u201cthe best of the breast\u201d chicken tenderloins and our freshly prepared dumplins. Both are slow simmered in our own chicken stock right in our kitchens.<br><p><\/p>",
+		"unit_price": "320",
+		"category_id": "4",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/din_chickenanddumpling.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "16",
+		"item_name": "Popcorn",
+		"item_description": "<p>Popcorn<\/p>",
+		"unit_price": "50",
+		"category_id": "5",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/snack_popcorn.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "17",
+		"item_name": "Chips",
+		"item_description": "<p><\/p>Chips<br><p><\/p>",
+		"unit_price": "50",
+		"category_id": "5",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/snack_potatochips.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "18",
+		"item_name": "Nuts",
+		"item_description": "<p>Nuts<\/p>",
+		"unit_price": "50",
+		"category_id": "5",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/snack_cornnuts.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "19",
+		"item_name": "Baked Apple Dumpling",
+		"item_description": "<p>Baked Apple Dumpling<br><\/p>",
+		"unit_price": "50",
+		"category_id": "5",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/snack_bakedappledumplin.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "20",
+		"item_name": "Soda",
+		"item_description": "<p>Soda<\/p>",
+		"unit_price": "50",
+		"category_id": "6",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/drink_soda.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "21",
+		"item_name": "Beer",
+		"item_description": "<p>Beer<br><\/p>",
+		"unit_price": "50",
+		"category_id": "6",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/drink_beer.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}, {
+		"id": "22",
+		"item_name": "Iced Tea",
+		"item_description": "<p>Iced Tea<br><\/p>",
+		"unit_price": "50",
+		"category_id": "6",
+		"img_uri": "file:\/\/\/storage\/emulated\/0\/Android\/drink_icedtea1.jpg",
+		"enabled": "1",
+		"is_combo": "0",
+		"combo_items": []
+	}]
+}

@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('mtv_packagemanager_interface-1.01-debug.aar'))

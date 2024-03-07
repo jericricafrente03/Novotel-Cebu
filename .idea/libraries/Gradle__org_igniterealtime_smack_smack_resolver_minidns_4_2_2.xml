@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.smack:smack-resolver-minidns:4.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.2.2/97cc69cc7d138f3122132c831f8d340f0a0a345a/smack-resolver-minidns-4.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.2.2/d74bffcea943ca00a8dc89afe0948e7043201d73/smack-resolver-minidns-4.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.2.2/e0bd93a8e26c54ceb9cceb20cf4ebd76195fe0a4/smack-resolver-minidns-4.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+{"date":"01 13 2017 - 09:37:43","action":"UPDATE","class":"get_arrival_flights","room":"0","data":[
+{ "arrival_datetime" : "2015-01-28 17:37:00",
+    "carrier" : "KLM",
+    "flight_number" : "847",
+    "min_off" : "0",
+    "ontime_status" : "On-Time",
+    "origin" : "Montreal",
+    "status" : "Enroute"
+  },
+  { "arrival_datetime" : "2015-01-28 19:17:32",
+    "carrier" : "Air France",
+    "flight_number" : "125",
+    "min_off" : "5",
+    "ontime_status" : "On-Time",
+    "origin" : "Singapore",
+    "status" : "Enroute"
+  }]}

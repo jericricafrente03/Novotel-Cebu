@@ -1,0 +1,209 @@
+{
+	"action": "UPDATE",
+	"class": "get_vod",
+	"data": [{
+		"id": "3",
+		"tag": [{
+			"genre": "Crime"
+		}, {
+			"genre": "Drama"
+		}, {
+			"genre": "Thriller"
+		}],
+		"title": "Hell or High Water",
+		"plot": "A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas!",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_hellhiwater.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_hellhiwater.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_hellhiwater.mp4",
+		"length": "102",
+		"rating": "R",
+		"price": "100.00",
+		"bought": 0
+	}, {
+		"id": "4",
+		"tag": [{
+			"genre": "Animation"
+		}, {
+			"genre": "Action"
+		}, {
+			"genre": "Adventure"
+		}],
+		"title": "Kingsglaive: Final Fantasy XV",
+		"plot": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/KingsglaiveFinalFantasyXV.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_kingsglaive.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_kingsglaive.mp4",
+		"length": "110",
+		"rating": "PG-13",
+		"price": "150.00",
+		"bought": 0
+	}, {
+		"id": "5",
+		"tag": [{
+			"genre": "Animation"
+		}, {
+			"genre": "Adventure"
+		}, {
+			"genre": "Comedy"
+		}],
+		"title": "The Secret Life of Pets",
+		"plot": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_secretlife.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_secretlife.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_secretlife.mp4",
+		"length": "87",
+		"rating": "PG",
+		"price": "100.00",
+		"bought": 0
+	}, {
+		"id": "8",
+		"tag": [{
+			"genre": "Comedy"
+		}, {
+			"genre": "Romance"
+		}],
+		"title": "Already Tomorrow in Hong Kong!",
+		"plot": "An attraction forms when a Chinese American girl visiting Hong Kong for the first time meets an American expat who shows her the way, but timing may not quite be on their side. A walk and ...",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_hongkong.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_hongkong.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_hongkong.mp4",
+		"length": "78",
+		"rating": "PG-18",
+		"price": "150.00",
+		"bought": 0
+	}, {
+		"id": "9",
+		"tag": [{
+			"genre": "Action"
+		}, {
+			"genre": "Adventure"
+		}, {
+			"genre": "Sci-Fi"
+		}],
+		"title": "Star Trek: Beyond",
+		"plot": "The U.S.S. Enterprise crew explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy, who puts them, and everything the Federation stands for, to the test.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_startrek.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_startrek.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_startrek.mp4",
+		"length": "122",
+		"rating": "PG-13",
+		"price": "75.00",
+		"bought": 0
+	}, {
+		"id": "10",
+		"tag": [{
+			"genre": "Animation"
+		}, {
+			"genre": "Adventure"
+		}, {
+			"genre": "Comedy"
+		}],
+		"title": "Finding Dory",
+		"plot": "The friendly but forgetful blue tang fish, Dory, begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_dory.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_dory.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_dory.mp4",
+		"length": "97",
+		"rating": "PG",
+		"price": "100.00",
+		"bought": 0
+	}, {
+		"id": "11",
+		"tag": [{
+			"genre": "Drama"
+		}, {
+			"genre": "Romance"
+		}],
+		"title": "Indignation",
+		"plot": "In 1951, Marcus, a working-class Jewish student from New Jersey, attends a small Ohio college, where he struggles with sexual repression and cultural disaffection, amid the ongoing Korean War.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_indigation.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_indigation.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_indigation.mp4",
+		"length": "110",
+		"rating": "R",
+		"price": "75.00",
+		"bought": 0
+	}, {
+		"id": "12",
+		"tag": [{
+			"genre": "Adventure"
+		}, {
+			"genre": "Family"
+		}, {
+			"genre": "Fantasy"
+		}],
+		"title": "Alice Through the Looking Glass",
+		"plot": "Alice returns to the whimsical world of Wonderland and travels back in time to help the Mad Hatter.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_alice.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_alice.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_alice.mp4",
+		"length": "113",
+		"rating": "PG",
+		"price": "100.00",
+		"bought": 0
+	}, {
+		"id": "13",
+		"tag": [{
+			"genre": "Comedy"
+		}, {
+			"genre": "Drama"
+		}],
+		"title": "Mr. Church",
+		"plot": "\"Mr. Church\" tells the story of a unique friendship that develops when a little girl and her dying mother retain the services of a talented cook - Henry Joseph Church. What begins as a six month arrangement instead spans into fifteen years and creates a family bond that lasts forever.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_mrchurch.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_mrchurch.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_mrchurch.mp4",
+		"length": "104",
+		"rating": "PG-13",
+		"price": "100.00",
+		"bought": 0
+	}, {
+		"id": "14",
+		"tag": [{
+			"genre": "Crime"
+		}, {
+			"genre": "Drama"
+		}, {
+			"genre": "Thriller"
+		}],
+		"title": "Imperium",
+		"plot": "A young FBI agent, eager to prove himself in the field, goes undercover as a white supremacist.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_imperium.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_imperium.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_imperium.mp4",
+		"length": "109",
+		"rating": "R",
+		"price": "125.00",
+		"bought": 0
+	}, {
+		"id": "15",
+		"tag": [{
+			"genre": "Comedy"
+		}, {
+			"genre": "Drama"
+		}],
+		"title": "Captain Fantastic",
+		"plot": "In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be a parent.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_cap_fantastic.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/\/trailer_cap_fantastic.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_cap_fantastic.mp4",
+		"length": "118",
+		"rating": "R",
+		"price": "100.00",
+		"bought": 0
+	}, {
+		"id": "16",
+		"tag": [{
+			"genre": "Horror"
+		}],
+		"title": "Lights Out",
+		"plot": "Rebecca must unlock the terror behind her little brother's experiences that once tested her sanity, bringing her face to face with a supernatural spirit attached to their mother.",
+		"img": "file:\/\/\/storage\/emulated\/0\/Android\/vod_lightsout.jpg",
+		"trailer": "file:\/\/\/storage\/emulated\/0\/Android\/trailer_lightsout.mp4",
+		"full": "file:\/\/\/storage\/emulated\/0\/Android\/full_lightsout.mp4",
+		"length": "81",
+		"rating": "PG-13",
+		"price": "75.00",
+		"bought": 0
+	}]
+}

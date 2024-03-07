@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cl_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp"
+    android:background="@drawable/white_border"
+    android:gravity="center">
+
+    <LinearLayout
+        android:id="@+id/linearLayout7"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/red"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="100"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="15"
+            android:background="@color/red"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tv_search"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="My Videos"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="30sp" />
+        </LinearLayout>
+
+        <!--<TextView-->
+            <!--android:id="@+id/tvSearchVideosHeader"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="0dp"-->
+            <!--android:layout_weight="15"-->
+            <!--android:background="@color/brown"-->
+            <!--android:gravity="center"-->
+            <!--android:text="My Videos"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:textSize="30sp" />-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="@color/white"
+            android:layout_weight="3" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="67"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <ListView
+                android:id="@+id/lv_myvideos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:cacheColorHint="@android:color/transparent"
+                android:divider="@android:color/transparent"
+                android:dividerHeight="2dp"
+                android:listSelector="@android:color/transparent"
+                android:scrollbarStyle="insideOverlay"
+                android:scrollbars="none" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="15"
+            android:background="@color/white"
+            android:gravity="top|center"
+            android:orientation="horizontal"
+            tools:ignore="ObsoleteLayoutParam,RtlHardcoded">
+
+
+            <Button
+                android:id="@+id/btn_play"
+                android:layout_width="125dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttons_blue"
+                android:focusable="true"
+                android:gravity="center|top"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:text="Play"
+                android:visibility="gone"
+                android:textColor="@android:color/white"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                tools:ignore="ButtonStyle" />
+
+
+            <Button
+                android:id="@+id/btn_back"
+                android:layout_width="125dp"
+                android:layout_height="30dp"
+                android:layout_gravity="right|center_vertical"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttons_red"
+                android:focusable="true"
+                android:gravity="center|top"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:text="Back"
+                android:textColor="@android:color/white"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                tools:ignore="ButtonStyle" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

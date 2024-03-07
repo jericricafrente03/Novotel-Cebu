@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="signage_black">#aa000000</color>
+    <!--<color name="signage_blue_border">#1a4384</color>-->
+    <color name="signage_blue_border">#fc8005</color>
+
+</resources>

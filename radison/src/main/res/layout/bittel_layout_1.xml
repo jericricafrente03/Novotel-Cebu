@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_layout1"
+    android:padding="24dp">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_15x"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.10"/>
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_70x"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.85"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_55y"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.65" />
+
+    <LinearLayout
+        android:id="@+id/ll_title"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/gl_15x"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/a_oval_top"
+        android:orientation="vertical"/>
+
+    <LinearLayout
+        android:id="@+id/ll_media"
+
+        app:layout_constraintBottom_toTopOf="@+id/gl_70x"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gl_15x"
+
+        app:layout_constraintRight_toLeftOf="@+id/gl_55y"
+        android:background="@drawable/a_rectangle"
+        android:layout_marginTop="24dp"
+        android:layout_marginRight="12dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"/>
+
+    <LinearLayout
+        android:id="@+id/ll_list"
+        app:layout_constraintTop_toBottomOf="@+id/gl_15x"
+        app:layout_constraintBottom_toTopOf="@+id/ll_description"
+        android:background="@drawable/a_rectangle"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="12dp"
+        app:layout_constraintLeft_toRightOf="@+id/gl_55y"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"/>
+
+    <LinearLayout
+        android:id="@+id/ll_description"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@drawable/a_rectangle"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="12dp"
+        app:layout_constraintLeft_toRightOf="@+id/gl_55y"
+        app:layout_constraintTop_toBottomOf="@+id/ll_list"
+        app:layout_constraintBottom_toTopOf="@+id/ll_weather"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"/>
+
+    <LinearLayout
+        android:id="@+id/ll_weather"
+        android:background="@drawable/a_oval_bottom_r"
+        app:layout_constraintLeft_toRightOf="@+id/gl_55y"
+        app:layout_constraintTop_toBottomOf="@+id/ll_description"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="12dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"/>
+
+    <LinearLayout
+        android:id="@+id/ll_time"
+        app:layout_constraintTop_toBottomOf="@id/gl_70x"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/gl_55y"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/a_oval_bottom_l"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

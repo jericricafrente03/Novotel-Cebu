@@ -1,0 +1,9 @@
+{"action":"UPDATE","class":"get_tv_channel_category","room":"0","date":"12 01 2017 09:18:50","data":
+[
+    {
+        "order_no":"1",
+        "id":"1",
+        "category_name":"News",
+        "category_description":"News",
+        "pie_color":"#FEA223"
+    },{"order_no":"2","id":"2","category_name":"Sports","category_description":"Sports","pie_color":"#3FBAE4"},{"order_no":"3","id":"3","category_name":"Movies","category_description":"Movies","pie_color":"#46BFBD"},{"order_no":"4","id":"4","category_name":"Music","category_description":"Music","pie_color":"#F7464A"},{"order_no":"5","id":"5","category_name":"Cartoons","category_description":"Cartoons","pie_color":"#0000A0"},{"order_no":"6","id":"6","category_name":"Others","category_description":"Others","pie_color":"#ff6600"}]}

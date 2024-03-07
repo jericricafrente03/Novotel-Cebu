@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_1"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_2"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.60"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_3"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.75"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:layout_marginLeft="8dp"
+        android:id="@+id/iv_logo"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/divider"
+        android:layout_marginBottom="8dp"
+
+        android:src="@drawable/w01d"
+        android:scaleType="fitXY"
+        android:layout_width="44dp"
+        android:layout_height="44dp" />
+    <LinearLayout
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/iv_logo"
+        app:layout_constraintRight_toLeftOf="@+id/gl_1"
+        app:layout_constraintBottom_toTopOf="@+id/divider"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_width="0dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <com.ph.bittelasia.meshtv.tv.mtvlib.Core.View.CustomView.CustomScrollingTextView.MeshTVScrollingContinuousTextView
+            android:id="@+id/tv_event"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Event Name"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+    <LinearLayout
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/gl_1"
+        app:layout_constraintRight_toLeftOf="@+id/gl_2"
+        android:layout_marginRight="2dp"
+        android:layout_marginLeft="2dp"
+        app:layout_constraintBottom_toTopOf="@+id/divider"
+        android:layout_marginBottom="8dp"
+        android:layout_width="0dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <com.ph.bittelasia.meshtv.tv.mtvlib.Core.View.CustomView.CustomScrollingTextView.MeshTVScrollingContinuousTextView
+            android:id="@+id/tv_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+    <LinearLayout
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/gl_2"
+        app:layout_constraintRight_toLeftOf="@+id/gl_3"
+        android:layout_marginRight="2dp"
+        android:layout_marginLeft="2dp"
+        app:layout_constraintBottom_toTopOf="@+id/divider"
+        android:layout_marginBottom="8dp"
+        android:layout_width="0dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <com.ph.bittelasia.meshtv.tv.mtvlib.Core.View.CustomView.CustomScrollingTextView.MeshTVScrollingContinuousTextView
+            android:id="@+id/tv_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Location"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/gl_3"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginRight="2dp"
+        app:layout_constraintBottom_toTopOf="@+id/divider"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="2dp"
+        android:layout_width="0dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <com.ph.bittelasia.meshtv.tv.mtvlib.Core.View.CustomView.CustomScrollingTextView.MeshTVScrollingContinuousTextView
+            android:id="@+id/tv_time"
+            android:text="12:00 NN to 1:00 PM"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+
+
+
+    <View
+        android:id="@+id/divider"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@color/white"
+        android:layout_width="0dp"
+        android:layout_height="2dp"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

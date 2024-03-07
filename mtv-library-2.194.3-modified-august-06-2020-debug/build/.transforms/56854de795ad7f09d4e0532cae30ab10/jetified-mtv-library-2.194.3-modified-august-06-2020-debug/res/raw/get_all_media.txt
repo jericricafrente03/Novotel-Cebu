@@ -1,0 +1,21 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_media",
+	"room": 0,
+	"data": [{
+			"id": "0",
+			"type_id": "0",
+			"url": "http://192.168.1.14:8080/images/shopping/camara_digital_canon_ixus_145_black_hd_ad_l2.jpg"
+		},
+		{
+			"id": "1",
+			"type_id": "1",
+			"url": "http://192.168.1.14:8080/images/shopping/camara_digital_canon_ixus_145_black_hd_ad_l2.jpg"
+		},
+		{
+			"id": "2",
+			"type_id": "1",
+			"url": "http://192.168.1.14:8080/images/shopping/camara_digital_canon_ixus_145_black_hd_ad_l2.jpg"
+		}
+	]
+}

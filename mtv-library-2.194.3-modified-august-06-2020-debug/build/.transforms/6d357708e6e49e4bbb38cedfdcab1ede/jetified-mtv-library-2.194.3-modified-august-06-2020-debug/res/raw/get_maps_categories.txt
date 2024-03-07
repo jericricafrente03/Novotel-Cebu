@@ -1,0 +1,44 @@
+{
+	"action": "UPDATE",
+	"class": "get_maps_categories",
+	"date": "01 13 2017 09:38:33",
+	"room": 0,
+	"data": [{
+		"id": "1",
+		"category_name": "Spa Shops and Galleries",
+		"category_description": "",
+		"img_preview": "",
+		"img_uri": ""
+
+	}, {
+		"id": "2",
+		"category_name": "Airlines Airports Hotels",
+		"category_description": "",
+		"img_preview": "",
+		"img_uri": ""
+	}, {
+		"id": "3",
+		"category_name": "Jade and Gems",
+		"category_description": "",
+		"img_preview": "",
+		"img_uri": ""
+	}, {
+		"id": "4",
+		"category_name": "Golf",
+		"category_description": "",
+		"img_preview": "",
+		"img_uri": ""
+	}, {
+		"id": "5",
+		"category_name": "Restaurants",
+		"category_description": "",
+		"img_preview": "",
+		"img_uri": ""
+	}, {
+		"id": "8",
+		"category_name": "Museums and Arts",
+		"category_description": "",
+		"img_preview": "",
+		"img_uri": ""
+	}]
+}

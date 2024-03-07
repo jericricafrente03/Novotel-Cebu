@@ -1,0 +1,24 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_layout_v2",
+	"room": 0,
+	"data": [{
+			"id": "0",
+			"name": "template 1",
+			"zones": "2",
+            "preview_url":"http://192.168.1.14:8080/images/tvs/channel_abc10.jpg"
+		},
+		{
+			"id": "1",
+			"name": "template 2",
+			"zones": "2",
+            "preview_url":"http://192.168.1.14:8080/images/tvs/channel_cnn4.png"
+		},
+		{
+			"id": "2",
+			"name": "template 3",
+			"zones": "3",
+            "preview_url":"http://192.168.1.14:8080/images/tvs/channel_cbs.jpg"
+		}
+	]
+}

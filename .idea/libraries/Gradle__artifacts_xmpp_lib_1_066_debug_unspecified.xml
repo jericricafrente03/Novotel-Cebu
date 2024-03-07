@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:xmpp_lib-1.066-debug:unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/xmpp_lib-1.066-debug/build/.transforms/80b949b3fee0c9f3728dccdfa0f6b213/jetified-xmpp_lib-1.066-debug/res" />
+      <root url="jar://$PROJECT_DIR$/xmpp_lib-1.066-debug/build/.transforms/80b949b3fee0c9f3728dccdfa0f6b213/jetified-xmpp_lib-1.066-debug/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/xmpp_lib-1.066-debug/build/.transforms/80b949b3fee0c9f3728dccdfa0f6b213/jetified-xmpp_lib-1.066-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

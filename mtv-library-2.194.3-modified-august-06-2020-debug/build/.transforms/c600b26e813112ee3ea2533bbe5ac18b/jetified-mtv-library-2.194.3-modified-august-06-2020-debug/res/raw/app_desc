@@ -1,0 +1,115 @@
+{
+	"app_list_type":"2",
+	"default_selected":"0",
+	"apps":
+	[
+
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.TV.View.Activity.XHotelTV",
+			"icon":"app_icon_tv_icon",
+			"icon_selected":"app_icon_tv_icon",
+			"display_name":"TV",
+			"id":"1",
+			"app_type":"1",
+			"enabled":1
+		},
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.Shopping.View.Activity.XHotelShopping",
+			"icon":"app_icon_shopping_icon",
+			"icon_selected":"app_icon_shopping_icon",
+			"display_name":"Shopping",
+			"id":"2",
+			"app_type":"1",
+            "enabled":1
+		},
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.Concierge.View.Activity.XHotelConcierge",
+			"icon":"app_icon_service_icon",
+			"icon_selected":"app_icon_service_icon",
+			"display_name":"Concierge",
+			"id":"3",
+			"app_type":"1",
+                          			"enabled":1
+		},
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.VC.View.Activity.XHotelVC",
+			"icon":"app_icon_virtual_icon",
+			"display_name":"Virtual Concierge",
+			"icon_selected":"app_icon_virtual_icon",
+			"id":"4",
+			"app_type":"1",
+                          			"enabled":1
+		},
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.Dining.View.Activity.XHotelDining",
+			"icon":"app_icon_fnb_icon",
+			"icon_selected":"app_icon_fnb_icon",
+			"display_name":"Dining",
+			"id":"5",
+			"app_type":"1",
+                          			"enabled":1
+		},
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.Facility.View.Activity.XHotelFacility",
+			"icon":"app_icon_facilities_icon",
+			"icon_selected":"app_icon_facilities_icon",
+			"display_name":"Facility",
+			"id":"6",
+			"app_type":"1",
+                          			"enabled":1
+		},
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.Messaging.View.Activity.XHotelMessage",
+			"icon":"app_icon_messaging_icon",
+			"icon_selected":"app_icon_messaging_icon",
+			"display_name":"Messaging",
+			"id":"7",
+			"app_type":"2",
+                          			"enabled":1
+		},
+
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.Flight.View.Activity.XHotelFlight",
+			"icon":"app_icon_flight_icon",
+			"icon_selected":"app_icon_flight_icon",
+			"display_name":"Flight",
+			"id":"8",
+			"app_type":"1",
+                          			"enabled":1
+		},
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.Weather.View.Activity.XHotelWeather",
+			"icon":"app_icon_weather_icon",
+			"icon_selected":"app_icon_weather_icon",
+			"display_name":"Weather",
+			"id":"9",
+			"app_type":"1",
+                          			"enabled":1
+		},
+
+
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.Bill.View.Activity.XHotelBill",
+			"icon":"app_icon_checkout_icon",
+			"icon_selected":"app_icon_checkout_icon",
+			"display_name":"Checkout",
+			"id":"9",
+			"app_type":"1",
+                          			"enabled":1
+		}
+,
+
+
+		{
+			"app":"com.ph.bittelasia.meshtv.tv.mtvlib.Novotel.LeClub.View.Activity.XHotelLeClub",
+			"icon":"app_icon_leclub",
+			"icon_selected":"app_icon_leclub",
+			"display_name":"Le Club",
+			"id":"10",
+			"app_type":"1",
+                          			"enabled":1
+		}
+
+
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"action": "UPDATE",
+	"class": "get_tv_channel_category",
+	"data": [{
+		"order_no": "0",
+		"id": "1",
+		"category_name": "All Channels",
+		"category_description": "All Channels",
+		"color": "#27ae60"
+	}, {
+		"order_no": "0",
+		"id": "2",
+		"category_name": "News",
+		"category_description": "News",
+		"color": "#3498db"
+	}, {
+		"order_no": "0",
+		"id": "3",
+		"category_name": "Sports",
+		"category_description": "Sports",
+		"color": "#e74c3c"
+	}, {
+		"order_no": "0",
+		"id": "4",
+		"category_name": "Movies",
+		"category_description": "Movies",
+		"color": "#d35400"
+	}, {
+		"order_no": "0",
+		"id": "5",
+		"category_name": "Entertainment",
+		"category_description": "Entertainment",
+		"color": "#2c3e50"
+	}, {
+		"order_no": "0",
+		"id": "6",
+		"category_name": "Documentaries",
+		"category_description": "Documentaries",
+		"color": "#f39c12"
+	}, {
+		"order_no": "0",
+		"id": "7",
+		"category_name": "Test",
+		"category_description": "Test",
+		"color": "#E412B7"
+	}]
+}

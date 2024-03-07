@@ -1,0 +1,16 @@
+{
+	"action":"UPDATE",
+	"class":"snack_category",
+	"date":"10 06 2016 12:12:12",
+	"room":0,
+	"data":
+	[
+            {
+                "category_description" : "All",
+                "category_name" : "All",
+                "id" : "1",
+                "is_service" : "0"
+            }
+        ]
+}
+

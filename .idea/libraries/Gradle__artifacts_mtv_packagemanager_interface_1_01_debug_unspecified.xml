@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:mtv_packagemanager_interface-1.01-debug:unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/mtv_packagemanager_interface-1.01-debug/build/.transforms/0161609bd0296830f16e7e7d4135d8cb/jetified-mtv_packagemanager_interface-1.01-debug/res" />
+      <root url="file://$PROJECT_DIR$/mtv_packagemanager_interface-1.01-debug/build/.transforms/0161609bd0296830f16e7e7d4135d8cb/jetified-mtv_packagemanager_interface-1.01-debug/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/mtv_packagemanager_interface-1.01-debug/build/.transforms/0161609bd0296830f16e7e7d4135d8cb/jetified-mtv_packagemanager_interface-1.01-debug/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

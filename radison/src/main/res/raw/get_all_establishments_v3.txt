@@ -1,0 +1,85 @@
+{
+	"action": "UPDATE",
+	"class": "virtual_concierge",
+	"date": "01 13 2017 09:39:16",
+	"room": "0",
+	"data": [{
+			"address": "If you like big cities you’ll love MANILA: it’s a high-speed,frenetic place, where you can eat, drink and shop 24 hours a day and where the Filipino heritage of native, Spanish, Chinese and American cultures are at their most mixed up. Like many capital cities, Manila bears little resemblance to the rest of the country – something to remember if this is your first taste of the Philippines. <br><br>With 12 million residents, much of it is chronically overcrowded, polluted and suffers from appalling traffic jams, yet in between the chaos lie tranquil gate-guarded “subdivisions” that resemble affluent parts of the US. There’s extreme poverty here, with young children cleaning car windows, dancing or just begging for food at every interchange; while in enormous shopping malls thousands of wealthy, middle-class Manileños are as fashionable and hooked up with iPhones as any of their contemporaries in London or New York. And while the older parts of the city remain shabby and run-down, sparkling districts like Makati, Ortigas and Fort Bonifacio are smart and skyscraper smothered, like any other booming Asian metropolis.",
+			"contact_no": "537907, 503375",
+			"id": "1",
+			"establishment_route": "",
+			"category_id": "1",
+			"img_url": "vc_welcome",
+			"qr_code": "http:\/\/192.168.5.207:6060\/images\/maps\/qr_16.816681-96.139107.png",
+			"latitude": "0.0",
+			"longitude": "0.0",
+			"name": "Welcome to the Philippines",
+			"rating": "1.0"
+		},
+		{
+			"address": "Philippines’ second most active volcano, Taal Volcano is located at a distance of about 60 kilometres from Manila. A beautiful lake is nestled within the volcano giving it surreal beauty, offering panoramic views. There have been 33 eruptions in the volcano since the 16th century. A geological wonder, the volcano is located on an island and has a lake within it. The island has a complex topography and consists of forty seven overlapping cones and craters. It makes for a thrilling trekking and hiking destination. There are a host of activities that await the adventure enthusiast like canoeing, horse riding and volcano trekking.<br><br>The second most active volcano, it houses a beautiful lake nestled within it which makes it an attraction not to be missed. Although it is an important natural attraction, there is no entry fee to it. Which is to say that there are no ticket prices for Taal Volcano. The best way to explore this place is to take up a guided tour that offers you the best deal.<br>Location: Taal Volcano, Batangas, Philippines",
+			"contact_no": "537907, 503375",
+			"id": "2",
+			"establishment_route": "",
+			"category_id": "2",
+			"img_url": "vc_taal",
+			"qr_code": "http:\/\/192.168.5.207:6060\/images\/maps\/qr_16.816681-96.139107.png",
+			"latitude": "0.0",
+			"longitude": "0.0",
+			"name": "Taal Volcano",
+			"rating": "1.0"
+		},
+		{
+			"address": "Villa Escuredo is a coconut plantation turned into a resort that has evolved into one of Philippines’ premier vacation getaways. The plantation was originally built in 1929 by Don Arsenio, this oasis is hugely popular amongst locals and tourists alike. Away from the hustle bustle of the city, spend a relaxing day away on this tour of Villa Escudero Plantations that is one of the first hacienda resorts in the world. Experience Filipino culture and history as you ride a water buffalo-drawn cart through the plantation, tap your feet to live local music, browse artistic souvenirs and handicrafts at the museum, and enjoy a unique lunch at the base of a calm spillway from Labasin Dam. Located about a couple of hours away from Manila, Villa Escurdero is truly a paradise full of wondrous opportunities. <br>Location: Tiaong, Quezon",
+			"contact_no": "537907, 503375",
+			"id": "3",
+			"establishment_route": "",
+			"category_id": "3",
+			"img_url": "vc_villa_escudero",
+			"qr_code": "http:\/\/192.168.5.207:6060\/images\/maps\/qr_16.816681-96.139107.png",
+			"latitude": "0.0",
+			"longitude": "0.0",
+			"name": "Villa Escudero",
+			"rating": "1.0"
+		},
+		{
+			"address": "Within a resplendent neoclassical building, this superb museum houses a vast and varied collection, including the skullcap of the Philippines’ earliest known inhabitant, Tabon Man (said by some to actually be a woman), who lived around 24,000 BC. A large section of the museum is devoted to the wreck of the San Diego, a Spanish galleon that sank off the coast of Luzon in 1600, with salvaged items such as shell-encrusted swords, coins, porcelain plates, jewellery etc on display.<br><br>Other treasures include a large collection of pre-Hispanic artefacts and musical instruments, and displays on indigenous textiles. Note that the entry ticket also gets you into the National Gallery of Art.",
+			"contact_no": "537907, 503375",
+			"id": "4",
+			"establishment_route": "",
+			"category_id": "4",
+			"img_url": "vc_museum1",
+			"qr_code": "http:\/\/192.168.5.207:6060\/images\/maps\/qr_16.816681-96.139107.png",
+			"latitude": "0.0",
+			"longitude": "0.0",
+			"name": "Nationa Museum",
+			"rating": "1.0"
+		},
+		{
+			"address": "The San Agustin Church was the only building left intact after the destruction of Intramuros in WWII. Built between 1587 and 1606, it is the oldest church in the Philippines. The massive facade conceals an ornate interior filled with objects of great historical and cultural merit. Note the intricate trompe l’oeil frescoes on the vaulted ceiling. Be sure to check out the tropical cloisters as well as the slightly shabby gardens out the back.<br><br>The present structure is actually the third to stand on the site and has weathered seven major earthquakes, as well as the Battle of Manila. It’s an active church and much in demand for weddings and other ceremonies. To see the interior of the church for free, you must visit during a mass or you can access it through the interesting San Agustin Museum, a treasure house of antiquities that give the visitor tantalising glimpses of the fabled riches of Old Manila. Check out the vaguely Chinese-looking Immaculate Conception statue in ethereal ivory.<br>Location: General Luna St, Manila, Philippines",
+			"contact_no": "537907, 503375",
+			"id": "5",
+			"establishment_route": "",
+			"category_id": "5",
+			"img_url": "vc_church",
+			"qr_code": "http:\/\/192.168.5.207:6060\/images\/maps\/qr_16.816681-96.139107.png",
+			"latitude": "0.0",
+			"longitude": "0.0",
+			"name": "San Agustin Church",
+			"rating": "1.0"
+		},
+		{
+			"address": "The Pioneer and Standard for Exhibition Venues in the Philippines.<br>A member of the World Trade Centers Association (WTCA) of New York, World Trade Center Metro Manila (WTCMM) is the first exhibition venue in the Philippines listed by the Union des Foires Internationales or UFI, the global association of the exhibition industry.>br>Opened in October 1996, WTCMM is a pioneer in the provision of a world class exhibition venue in the country. Its management and staff have unparalleled expertise and experience in delivering efficient service",
+			"contact_no": "537907, 503375",
+			"id": "6",
+			"establishment_route": "",
+			"category_id": "6",
+			"img_url": "vc_exhibit",
+			"qr_code": "http:\/\/192.168.5.207:6060\/images\/maps\/qr_16.816681-96.139107.png",
+			"latitude": "0.0",
+			"longitude": "0.0",
+			"name": "San Agustin Church",
+			"rating": "1.0"
+		}
+	]
+}

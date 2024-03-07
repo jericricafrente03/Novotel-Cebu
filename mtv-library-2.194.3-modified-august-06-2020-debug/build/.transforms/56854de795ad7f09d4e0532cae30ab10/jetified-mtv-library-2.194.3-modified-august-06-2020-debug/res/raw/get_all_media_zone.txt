@@ -1,0 +1,22 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_media_zone",
+	"room": 0,
+	"data": [{
+			"id": "1",
+			"media_id": "1",
+			"zone_id": "1"
+		},
+		{
+			"id": "2",
+			"media_id": "2",
+			"zone_id": "1"
+		},
+		{
+			"id": "3",
+			"media_id": "3",
+			"zone_id": "1"
+		}
+	]--
+
+}

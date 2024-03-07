@@ -1,0 +1,44 @@
+{
+	"action": "UPDATE",
+	"class": "get_genres",
+	"data": [{
+		"id": "1",
+		"genre": "All"
+	}, {
+		"id": "2",
+		"genre": "Action"
+	}, {
+		"id": "3",
+		"genre": "Adventure"
+	}, {
+		"id": "4",
+		"genre": "Comedy"
+	}, {
+		"id": "5",
+		"genre": "Family"
+	}, {
+		"id": "6",
+		"genre": "Fantasy"
+	}, {
+		"id": "7",
+		"genre": "Animation"
+	}, {
+		"id": "8",
+		"genre": "Thriller"
+	}, {
+		"id": "9",
+		"genre": "Sci-Fi"
+	}, {
+		"id": "10",
+		"genre": "Crime"
+	}, {
+		"id": "11",
+		"genre": "Drama"
+	}, {
+		"id": "12",
+		"genre": "Romance"
+	}, {
+		"id": "13",
+		"genre": "Horror"
+	}]
+}

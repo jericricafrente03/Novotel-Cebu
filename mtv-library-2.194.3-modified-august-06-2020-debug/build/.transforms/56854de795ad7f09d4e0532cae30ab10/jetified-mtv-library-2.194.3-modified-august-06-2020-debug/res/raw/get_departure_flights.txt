@@ -1,0 +1,32 @@
+{"date":"01 13 2017 - 09:37:05","action":"UPDATE","class":"get_departure_flights","room":"0","data":[{ "carrier" : "German Wings",
+    "departure_datetime" : "2015-01-28 14:42:00",
+    "destination" : "Singapore",
+    "flight_number" : "0847",
+    "min_off" : "0",
+    "ontime_status" : "On-Time",
+    "status" : "Enroute"
+  },
+  { "carrier" : "Delta Airlines",
+    "departure_datetime" : "2015-01-28 14:40:00",
+    "destination" : "Montreal",
+    "flight_number" : "125",
+    "min_off" : "5",
+    "ontime_status" : "Late",
+    "status" : "Enroute"
+  },
+  { "carrier" : "KLM",
+    "departure_datetime" : "2015-01-28 16:00:00",
+    "destination" : "Singapore",
+    "flight_number" : "5422",
+    "min_off" : "0",
+    "ontime_status" : "On-Time",
+    "status" : "Enroute"
+  },
+  { "carrier" : "Delta Airlines",
+    "departure_datetime" : "2015-01-28 14:50:00",
+    "destination" : "TBilisi",
+    "flight_number" : "5522",
+    "min_off" : "15",
+    "ontime_status" : "Very Late",
+    "status" : "Enroute"
+  }]}

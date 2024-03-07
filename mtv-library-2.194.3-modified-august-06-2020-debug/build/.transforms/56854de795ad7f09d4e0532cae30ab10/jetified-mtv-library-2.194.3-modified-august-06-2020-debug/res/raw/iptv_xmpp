@@ -1,0 +1,13 @@
+﻿﻿{
+	"APIKeyPreference_PREF_ROOM":"401",
+	"XMPPPreference_USERNAME":"401",
+	"XMPPPreference_PASSWORD":"hello123",
+	"XMPPPreference_SERVICE":"localhost",
+	"XMPPPreference_HOST":"192.168.1.34",
+	"XMPPPreference_PORT":"5222",
+	"HTTPPreference_HOST":"http://192.168.1.34",
+	"HTTPPreference_PORT":"6060",
+	"HTTPPreference_TIMEOUT":"30000",
+	"HTTPPreference_CONTIMEOUT":"30000",
+	"APIKeyPreference_PREF_VERSION":"4.0"
+}

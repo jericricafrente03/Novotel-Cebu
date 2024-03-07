@@ -1,0 +1,17 @@
+{
+    "action":"UPDATE",
+    "class":"get_subscriptions",
+    "data":
+    [
+        {
+            "id":"1",
+            "subscriber_id":"879870d0-2021-11e8-b467-0ed5f89f718b",
+            "package_id":"1"
+        },
+        {
+            "id":"2",
+            "subscriber_id":"879870d0-2021-11e8-b467-0ed5f89f718b",
+            "package_id":"2"
+        }
+    ]
+}

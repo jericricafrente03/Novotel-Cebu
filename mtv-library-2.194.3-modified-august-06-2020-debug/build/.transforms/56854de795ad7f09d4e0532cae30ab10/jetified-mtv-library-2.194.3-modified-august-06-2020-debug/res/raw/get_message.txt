@@ -1,0 +1,18 @@
+{
+	"class": "get_message",
+	"action": "UPDATE",
+	"room": "1121941121",
+	"data": [{
+		"messg_datetime": "2018-01-09 02:02:02",
+		"messg_from": "Mars",
+		"messg_subject": "Test 1",
+		"messg_text": "This is the first test message.",
+		"id": "29",
+		"room_id": "1121941121",
+		"messg_status": "0",
+		"messg_type": 0,
+		"messg_img": "",
+		"messg_vid": "",
+		"messg_display_time": 10
+	}]
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ph.bittelasia.meshtv.tv.carlson">
+
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+
+
+    <application
+        android:name=".Core.App.Carlson"
+        android:allowBackup="true"
+        android:icon="@drawable/rhg"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:name,android:icon,android:banner"
+        android:banner="@drawable/rhg">
+        <!--<activity android:name=".TestActivity"/>-->
+        <activity android:name=".DigitalSignageMarsV2.CarlsonSignageActivity"/>
+        <!--android:name=""-->
+
+        <activity
+            android:name=".Launcher.View.Activity.CarlsonLauncher"
+            android:windowSoftInputMode="adjustNothing"
+            android:configChanges="keyboardHidden"
+            android:hardwareAccelerated="false"
+            android:largeHeap="true"
+            android:exported="true"
+            android:usesCleartextTraffic="true">
+            <intent-filter>
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Airmedia.View.Activity.CarlsonAirMedia"/>
+        <activity
+            android:name=".Weather.View.Activity.CarlsonWeather"
+            android:windowSoftInputMode="adjustNothing"
+            android:configChanges="keyboardHidden">
+        </activity>
+        <activity android:name=".Temp.View.Activity.CarlsonFullScreen"
+            android:windowSoftInputMode="adjustNothing"
+            android:theme="@style/TVTheme">
+        </activity>
+        <activity android:name=".Website.View.Activity.CarlsonWebsite"/>
+        <activity android:name=".TV.View.Activity.CarlsonTV"/>
+
+        <activity android:name=".Movies.View.Activity.CarlsonVod"/>
+        <activity android:name=".Shopping.View.Activity.CarlsonShopping"
+            android:hardwareAccelerated="false"
+            android:largeHeap="true">
+        </activity>
+        <activity android:name=".Dining.View.Activity.CarlsonDining" />
+        <activity android:name=".Billing.View.Activity.CarlsonBilling" />
+        <activity android:name=".Message.View.Activity.CarlsonMessaging"/>
+        <activity android:name=".Facilities.View.Activity.CarlsonFacility"
+            android:hardwareAccelerated="false"
+            android:largeHeap="true">
+        </activity>
+        <activity android:name=".FacilitiesV2.view.activity.FacilityActivity" />
+        <activity android:name=".FacilitiesV2.view.activity.HotelFacilityActivity"/>
+        <activity android:name=".HotelInfo.View.Activity.HotelInfoActivity"/>
+        <receiver android:name=".Launcher.Control.StartAppOnBoot" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+        <service
+            android:name=".MeshOverlayService2"
+            android:exported="true"/>
+
+        <provider
+            android:name=".Util.GenericFileProvider"
+            android:authorities="ph.com.tindera.Util.GenericFileProvider"
+            android:exported="false"
+            tools:replace="android:authorities"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                tools:replace="android:resource"
+                android:resource="@xml/provider_paths"/>
+        </provider>
+    </application>
+</manifest>

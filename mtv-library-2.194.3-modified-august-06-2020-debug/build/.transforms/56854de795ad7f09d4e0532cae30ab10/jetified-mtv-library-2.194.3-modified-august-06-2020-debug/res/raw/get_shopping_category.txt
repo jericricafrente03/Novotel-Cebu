@@ -1,0 +1,32 @@
+{   "action": "UPDATE",
+	"class": "get_shopping_category",
+	"room": 0,
+	"date": "10 06 2016 12:12:12",
+	"data": 
+	[
+	{ 
+    "category_description" : "Featured Products",
+    "category_name" : "Featured",
+    "id" : "6"
+ 	 },
+
+  	{ 
+    "category_description" : "Fashion Items",
+    "category_name" : "Fashion",
+    "id" : "7"
+ 	 },
+
+ 	 { 
+     "category_description" : "Souvenirs Items",
+   	 "category_name" : "Souvenirs",
+   	 "id" : "9"
+ 	 },
+
+  	{ 
+      "category_description" : "Accessories",
+   	  "category_name" : "Accessories",
+      "id" : "10"
+    }
+	]
+}
+

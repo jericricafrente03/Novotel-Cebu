@@ -1,0 +1,26 @@
+{
+     "action":"UPDATE",
+     "class":"get_customer",
+     "data":
+         {
+             "result":"success",
+             "class_name":"",
+             "room_number":"401A",
+             "checkin":"",
+             "assign_id":"",
+             "reserve_no":"",
+             "id":0,
+             "firstname":"Welcome",
+             "lastname":"Guest",
+             "birthdate":"2017-05-12",
+             "home_addr1":"",
+             "home_addr2":"none",
+             "home_addr3":"",
+             "home_addr4":"",
+             "mobile_no":"",
+             "landline_no":"",
+             "email":"",
+             "weather_id":""
+         },
+     "room":"401"
+ }

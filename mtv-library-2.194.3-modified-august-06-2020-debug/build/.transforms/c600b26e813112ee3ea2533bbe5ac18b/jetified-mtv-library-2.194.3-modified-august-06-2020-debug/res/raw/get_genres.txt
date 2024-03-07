@@ -1,0 +1,19 @@
+{	"action": "UPDATE",
+	"class": "get_genres",
+	"date": "08 09 2016 11:25:46",
+	"room": "0",
+	"data": 
+	[ 
+		{"id":1,"genre":"Adventure"},
+		{"id":2,"genre":"Animation"},
+		{"id":3,"genre":"Comedy"},
+		{"id":4,"genre":"Crime"},
+		{"id":5,"genre":"Drama"},
+		{"id":6,"genre":"Family"},
+		{"id":7,"genre":"Fantasy"},
+		{"id":8,"genre":"Horror"},
+		{"id":9,"genre":"Romance"},
+		{"id":10,"genre":"Sci-Fi"},
+		{"id":11,"genre":"Thriller"}
+	]
+}

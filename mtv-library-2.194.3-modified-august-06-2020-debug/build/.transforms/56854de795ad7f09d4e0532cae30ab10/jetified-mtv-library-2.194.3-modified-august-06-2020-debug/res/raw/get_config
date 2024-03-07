@@ -1,0 +1,24 @@
+{
+    "date":"11 20 2017 - 11:07:28",
+    "action":"UPDATE",
+    "class":"get_config",
+    "room":"0",
+    "data":
+        {
+            "hotel_name":"Novotel Max",
+            "hotel_street":"459 Pyay Road",
+            "hotel_city":"Yangon",
+            "hotel_country":"MM",
+            "hotel_timezone_id":"Asia\/Rangoon",
+            "hotel_email":"novotelmax-yangon@gmail.com",
+            "hotel_currency":"$",
+            "hotel_website":"www.novotel-yangon.com",
+            "hotel_logo":"http:\/\/155.94.175.130:6060/\/images\/config\/Novotel_Logo_for_IPTV7.png",
+            "hotel_map_coord":"16.8201,96.1320",
+            "hotel_weather_id":"8",
+            "welcome_message":"",
+            "reservation_message":"",
+            "service_request_message":"",
+            "checkout_message":""
+        }
+}

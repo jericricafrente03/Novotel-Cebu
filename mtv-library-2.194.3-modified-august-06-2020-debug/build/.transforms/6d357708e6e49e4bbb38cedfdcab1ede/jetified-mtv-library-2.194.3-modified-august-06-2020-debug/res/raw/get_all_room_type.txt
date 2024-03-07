@@ -1,0 +1,14 @@
+{"action":"UPDATE","class":"room_type","date":"01 09 2018 01:57:25","room":0,
+"data":
+[
+    {
+        "id":"1",
+        "category_name":"Standard Room",
+        "category_description":"Standard Room",
+        "facility_category_id":"1",
+        "amenities":[],
+        "images":[],
+        "order_no":"0"
+    }
+]
+}

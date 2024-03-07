@@ -1,0 +1,6 @@
+
+include ':libFragment'
+include ':radison',
+        ':mtv_packagemanager_interface-1.01-debug',
+        ':xmpp_lib-1.066-debug',
+        ':mtv-library-2.194.3-modified-august-06-2020-debug'

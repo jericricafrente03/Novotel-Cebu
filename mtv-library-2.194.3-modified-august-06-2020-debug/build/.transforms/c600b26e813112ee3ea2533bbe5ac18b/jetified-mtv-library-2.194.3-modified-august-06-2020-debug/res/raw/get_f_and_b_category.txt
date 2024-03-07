@@ -1,0 +1,29 @@
+{
+	"action":"UPDATE",
+	"class":"get_f_and_b_category",
+	"date":"10 06 2016 12:12:12",
+	"room":0,
+	"data":
+	[
+            {
+                "category_description" : "Breakfast",
+                "category_name" : "Breakfast",
+                "id" : "1",
+                "is_service" : "0"
+            },
+            {
+                "category_description" : "Lunch",
+                "category_name" : "Lunch",
+                "id" : "2",
+                "is_service" : "0"
+            },
+            {
+                "category_description" : "Dinner",
+                "category_name" : "Dinner",
+                "id" : "3",
+                "is_service" : "0"
+            }
+
+        ]
+}
+

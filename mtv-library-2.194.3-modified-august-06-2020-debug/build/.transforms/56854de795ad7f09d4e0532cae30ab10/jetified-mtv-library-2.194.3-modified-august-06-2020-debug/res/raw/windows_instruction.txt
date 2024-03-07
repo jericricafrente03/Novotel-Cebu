@@ -1,0 +1,33 @@
+{
+	"type": "windows",
+	"requirements": [{
+		"no": "1",
+		"text": "8.1 and above"
+	}],
+	"instructions": [{
+		"no": "1",
+		"text": "Connect your device to the Wireless access point designated for your room (i.e. Rm 1.01)."
+	}, {
+		"no": "2",
+		"text": "Open the Start menu on your Windows 10 machine."
+	}, {
+		"no": "3",
+		"text": "Click on Settings."
+	}, {
+		"no": "4",
+		"text": "Select Devices."
+	}, {
+		"no": "5",
+		"text": "Choose Connected Devices."
+	}, {
+		"no": "6",
+		"text": "Click Add a Device."
+	}, {
+		"no": "7",
+		"text": "Select your WiDi receiver."
+	}],
+	"notes": [{
+		"no": "1",
+		"text": "If you have issues maybe due to OS incompatiblity, kindly google to find the Windows patch. If don’t know how to connect you can google instructions how to connect your Windows device for streaming on Miracast."
+	}]
+}

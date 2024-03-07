@@ -1,0 +1,10 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_signage_v2",
+	"room": 0,
+	"data": [{
+		"id": "0",
+		"layout_id": "1",
+		"background": "http://192.168.1.14:8080/images/shopping/camara_digital_canon_ixus_145_black_hd_ad_l2.jpg"
+	}]
+}

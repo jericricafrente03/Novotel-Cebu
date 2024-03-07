@@ -1,0 +1,9 @@
+{
+    "action":"UPDATE",
+    "class":"get_layout_v2",
+    "room":0,
+    "data":
+        [
+
+         ]
+  }
